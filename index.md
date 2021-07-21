@@ -1,6 +1,4 @@
-## Kennedy Wangari's Blog
-
-
+# KENNEDY KAMANDE WANGARI
 
 Kennedy Wangari is an award winning Data Scientist based in Nairobi, Kenya. A Developer Advocate, Technical AI Community Lead, and Innovator at Deeplearning.AI: growing highly impactful tech/ developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow.
 
@@ -18,14 +16,12 @@ Kennedy has won various awards including: Deeplearning.AI Ambassador of the Year
 
 
 
-Hello and welcome to  #**Kennedy Wangari's Blog**
 
 . Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
 ![Image of fast.ai logo](images/logo.png)
 
-
-And you can include links, like this [LinkedIn](https://www.linkedin.com/in/kennedykwangari/). Posts will appear after this file. 
+ 
 
 [LinkedIn](https://www.linkedin.com/in/kennedykwangari/)
 
