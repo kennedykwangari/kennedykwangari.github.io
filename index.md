@@ -34,6 +34,23 @@ Kennedy has won various awards including: Deeplearning.AI Ambassador of the Year
 
 
 
+## Talks/Seminars/Workshops
+
+I love to attend developer meetups, conferences, workshops and learn from them as much as I can. I sometimes talk on a range of topics that I love the most. All the slides of my talks/sessions can be found below.
+
+## Given by me:
+
+
+## Co-organized by me:
+DevFest Kolkata, August 3, 20
+
+
+## Interviews
+The purpose of conducting these interviews is to mainly get insights about the real-world project experiences, perspectives on learning new things, some fun facts and thereby enriching the communities in the process. I sincerely thank the interviewees for taking the time out from their busy schedules and for agreeing to do these interviews. Here are the interviews I have done so far -
+
+
+## Education
+(The formal ones may be)
 
 
 
