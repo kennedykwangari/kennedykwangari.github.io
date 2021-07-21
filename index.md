@@ -1,5 +1,7 @@
 # KENNEDY KAMANDE WANGARI
 
+## Brief Profile
+
 Kennedy Wangari is an award winning Data Scientist based in Nairobi, Kenya. A Developer Advocate, Technical AI Community Lead, and Innovator at Deeplearning.AI: growing highly impactful tech/ developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow.
 
 Promoting access to world-class AI education in Sub-Saharan Africa and Kenya has been his top priority agenda. His tremendous advocacy efforts for better AI Education across the African continent, championing for inclusion, and better representation of black people in AI, and AI processes have earned him the honorary title: The Data Captain from Africa.
@@ -14,6 +16,25 @@ He has voluntarily dedicated his professional and personal time to help fellow t
 
 Kennedy has won various awards including: Deeplearning.AI Ambassador of the Year (2020), Oracle Student Award Recognition (2019), and the Contribution to Innovation, and Technology Award (JKUSA AWARDS, JKUAT 2018) 
 
+## Me on the Internet
+
+- Twitter: [@kennedykwangari](https://twitter.com/kennedykwangari)
+- LinkedIn: [Kennedy Wangari](https://www.linkedin.com/in/kennedykwangari/)
+
+
+
+## Communities
+
+- [Deeplearning.AI Nairobi Community](https://www.deeplearning.ai) - A thriving and highly engaging Artificial Intelligence Community of more than 300+ Kenyan students, researchers, creative, developers and AI enthusiasts that  engages, share ideas, collaborate, learn, and build innovatively with AI.
+
+
+## Books
+
+- [Python Machine Learning Best Practices and Design Patterns](https://twitter.com/kennedykwangari/status/1378257965824753669) (PACKT, Work in Progress)
+
+
+
+
 
 
 
@@ -22,10 +43,6 @@ Kennedy has won various awards including: Deeplearning.AI Ambassador of the Year
 ![Image of fast.ai logo](images/logo.png)
 
  
-
-[LinkedIn](https://www.linkedin.com/in/kennedykwangari/)
-
-[Twitter](https://twitter.com/kennedykwangari)
 
 
 
