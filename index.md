@@ -66,11 +66,6 @@ The purpose of conducting these interviews is to mainly get insights about the r
 
 
 
-
-. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
  
 
 
