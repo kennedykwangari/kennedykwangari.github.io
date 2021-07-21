@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Kennedy Kamande Wangari!
-description: Data Science, Production Machine Learning Systems, Analytics. Happy blogging... ❤
+description: Data Science, Production Machine Learning Systems, Analytics. Happy blogging ❤
 github_username:kennedykwangari
 
 # Email and twitter are optional:
 email:kennedykwangari@gmail.com
-twitter_username:
+twitter_username:kennedykwangari
 
 # Set this to true to get LaTeX math equation support
 use_math:
