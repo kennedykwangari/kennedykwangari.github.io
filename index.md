@@ -1,5 +1,17 @@
 # KENNEDY KAMANDE WANGARI
 
+---
+layout: home
+search_exclude: true
+---
+<center>
+  <figure>
+    <img src="https://github.com/kennedykwangari/kennedykwangari.github.io/blob/master/images/Kennedy%20Wangari.jpg">
+    <figcaption>Kennedy Kamande Wangari</a></figcaption>
+  </figure>
+</center>
+
+
 ## Brief Profile
 
 Kennedy Wangari is an award winning Data Scientist based in Nairobi, Kenya. A Developer Advocate, Technical AI Community Lead, and Innovator at Deeplearning.AI: growing highly impactful tech/ developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow.
