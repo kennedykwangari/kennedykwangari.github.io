@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Open Source contributions to data science and machine learning projects:
+**Open Source contributions to data science and machine learning projects:**
 
  [**Omdena AI**](https://omdena.com)
  
