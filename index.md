@@ -10,6 +10,13 @@ He is a key advocate, and promoter of the Sustainable Development Goal 4: promot
 
 He leads a thriving and highly engaging Artificial Intelligence Community of more than 300+ Kenyan students, researchers, creative, developers and AI enthusiasts to share ideas, collaborate, learn, and build innovatively with AI.
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/mentoring.jpg">
+      </figure>
+</center>
+
+
 He has voluntarily dedicated his professional and personal time to help fellow tech developers from African nations be successful, and productive, availed 1500+ training and education data science scholarships and career opportunities to the Kenyan AI developer communities, growing, and improving the African’s AI developer ecosystem experience.
 
 
