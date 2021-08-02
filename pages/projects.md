@@ -27,3 +27,11 @@ A team of [**28 AI Experts and Data Scientists**](https://omdena.com/blog/artifi
 <p align="center">
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/data.jpg">
 </p>
+
+
+ [**Masakhane NLP**](https://www.masakhane.io)
+ 
+ Active Masakhane Community Member, making contributions to its open source Natural Language Processing Projects. 
+ 
+ [**Contributing to**](https://www.masakhane.io/community) the documentation and baseline notebooks, models, and related code benchmarks for the kikuyu and Kiswahili languages.
+
