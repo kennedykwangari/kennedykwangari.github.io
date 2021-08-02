@@ -9,13 +9,11 @@ Kennedy Wangari is an award winning Data Scientist based in Nairobi, Kenya. A De
 He is a key advocate, and promoter of the Sustainable Development Goal 4: promoting data science education for all. Kennedy is spearheading initiatives, actively growing, contributing, and designing training programs to empower, support, and strengthen the professional development of new African AI talent, and building a world-class artificial intelligence knowledge, research and innovation African developer ecosystem that delivers high impact transformational business use, social use cases.
 
 He leads a thriving and highly engaging Artificial Intelligence Community of more than 300+ Kenyan students, researchers, creative, developers and AI enthusiasts to share ideas, collaborate, learn, and build innovatively with AI.
-
 <center>
   <figure>
     <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/mentoring.jpg">
       </figure>
 </center>
-
 
 He has voluntarily dedicated his professional and personal time to help fellow tech developers from African nations be successful, and productive, availed 1500+ training and education data science scholarships and career opportunities to the Kenyan AI developer communities, growing, and improving the African’s AI developer ecosystem experience.
 
