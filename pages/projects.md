@@ -16,10 +16,12 @@ Developed and optimized an AI technology collaboratively with a team of 38 AI En
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/smoke.jpg">
 </p>
 
+</br>
 
 
 
 b) [**Coronavirus: Understanding Policy Effects on Vulnerable Populations**](https://omdena.com/projects/ai-pandemics/)
+
 
 A team of [**28 AI Experts and Data Scientists**](https://omdena.com/blog/artificial-intelligence-covid19/) collaborated to gauge the impact of policies on vulnerable populations implemented during pandemics like COVID-19. The goal was to find correlations and encourage data-driven policymaking to lessen the adversity for most vulnerable populations.
 
