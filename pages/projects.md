@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-**Open Source contributions to data science and machine learning projects:**
+#### Open Source contributions to Data Science and Machine Learning Projects
 
  [**Omdena AI**](https://omdena.com)
  
@@ -29,7 +29,7 @@ A team of [**28 AI Experts and Data Scientists**](https://omdena.com/blog/artifi
 </p>
 
 
- [**Masakhane NLP**](https://www.masakhane.io)
+ [**Masakhane NLP Community**](https://www.masakhane.io)
  
  Active Masakhane Community Member, making contributions to its open source Natural Language Processing Projects. 
  
