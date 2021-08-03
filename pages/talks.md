@@ -29,6 +29,10 @@ permalink: /Talks/
 - [**Balancing AI Courses and Real-World Projects, Mindset, and Securing an NVIDIA Internship**](https://omdena.com/blog/nvidia-ai/)
 
 
+
+
+
+
  
 - [**Formulating your career Path in Data Science (1st February, 2021**](https://medium.com/@grivineochieng/first-pie-ai-meetup-kenya-c6dd756929b1)
 
@@ -37,4 +41,21 @@ permalink: /Talks/
 <p align="center">
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangarinairobi.jpeg">
 </p>
-&nbsp;  
+&nbsp;
+
+
+
+### Co-organized by me:
+
+-DevFest Kolkata, August 3, 2019.
+
+-TensorFlow All-Around Kolkata, August 31, 2019.
+
+-Let’s Build, January 4, 2020.
+
+-Kolkata Kreate, February 29, 2020.
+
+-TFUG India Summit, September 3 - 6, 2020.
+
+
+**Note:** If you are interested to invite me as a Speaker for your event, please get in touch by dropping an email kennedykwangari@gmail.com. If you are interested in having me submit a CFP first, that is absolutely fine! Please don’t hesitate to ask that.
