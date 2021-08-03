@@ -7,17 +7,17 @@ permalink: /Talks/
 **Selected Public Speaking, Workshops, Conferences, and Presentations at large Technology/ Machine Learning/ Data Science Conferences, practical workshops, and meetups to share our knowledge, expertise and thoughts with the data science community**
 
 
-Attended top tier Machine Learning Conferences (NeurIPS, ICML, ICLR, AI4GOOD, TensorFlow Dev Summit, Deep Learning Indaba).
+- Attended top tier Machine Learning Conferences (NeurIPS, ICML, ICLR, AI4GOOD, TensorFlow Dev Summit, Deep Learning Indaba).
 
 
- [**NVIDIA GTC 2021:   A New Africa and a New World: The State and Future of African Developer Ecosystems**](https://www.nvidia.cn/on-demand/session/gtcspring21-e32500/?playlistId=playList-efd5379e-ca6f-4121-b375-37db43c0b3dd)
+- [**NVIDIA GTC 2021:   A New Africa and a New World: The State and Future of African Developer Ecosystems**](https://www.nvidia.cn/on-demand/session/gtcspring21-e32500/?playlistId=playList-efd5379e-ca6f-4121-b375-37db43c0b3dd)
 
 <p align="center">
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/nvidia.jpg">
 </p>
 
 
-### Deeplearning.AI:  Breaking into AI: I took an Online Course, What’s Next?
+ - **Deeplearning.AI:  Breaking into AI: I took an Online Course, What’s Next?**
 <p> <a href="https://www.youtube.com/watch?v=QSLh7CUEfXA">Click here to view the Video</a>.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -26,9 +26,9 @@ Attended top tier Machine Learning Conferences (NeurIPS, ICML, ICLR, AI4GOOD, Te
 
 
 
-[**Balancing AI Courses and Real-World Projects, Mindset, and Securing an NVIDIA Internship**](https://omdena.com/blog/nvidia-ai/)
+- [**Balancing AI Courses and Real-World Projects, Mindset, and Securing an NVIDIA Internship**](https://omdena.com/blog/nvidia-ai/)
  
- [**Formulating your career Path in Data Science (1st February, 2021**](https://medium.com/@grivineochieng/first-pie-ai-meetup-kenya-c6dd756929b1)
+- [**Formulating your career Path in Data Science (1st February, 2021**](https://medium.com/@grivineochieng/first-pie-ai-meetup-kenya-c6dd756929b1)
 
 
 &nbsp;
