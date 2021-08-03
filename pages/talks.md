@@ -47,15 +47,8 @@ permalink: /Talks/
 
 ### Co-organized by me:
 
--DevFest Kolkata, August 3, 2019.
-
--TensorFlow All-Around Kolkata, August 31, 2019.
-
 -Let’s Build, January 4, 2020.
 
--Kolkata Kreate, February 29, 2020.
-
--TFUG India Summit, September 3 - 6, 2020.
 
 
-**Note:** If you are interested to invite me as a Speaker for your event, please get in touch by dropping an email kennedykwangari@gmail.com. If you are interested in having me submit a CFP first, that is absolutely fine! Please don’t hesitate to ask that.
+**Note:** If you are interested to invite me as a Speaker for your event, please get in touch by dropping an email. If you are interested in having me submit a CFP first, that is absolutely fine! Please don’t hesitate to ask that.
