@@ -5,7 +5,7 @@
       </figure>
 </center>
 
-He is a key advocate, and promoter of the [**Sustainable Development Goal 4:promoting data science education for all.**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) Kennedy is spearheading initiatives, actively growing, contributing, and designing training programs to empower, support, and strengthen the professional development of new African AI talent, and building a world-class artificial intelligence knowledge, research and innovation African developer ecosystem that delivers high impact transformational business use, social use cases.
+He is a key advocate, and promoter of the [**Sustainable Development Goal 4:promoting data science education for all.**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) Kennedy is spearheading initiatives, actively growing, contributing, and designing training programs to empower, support, and strengthen the [**professional development of new African AI talent**](https://www.linkedin.com/posts/packt-publishing_datascience-data-packtexpertnetwork-activity-6803619378156883968-oaY1), and building a world-class artificial intelligence knowledge, research and innovation African developer ecosystem that delivers high impact transformational business use, social use cases.
 
 He leads a thriving and highly engaging Artificial Intelligence Community of more than 300+ Kenyan students, researchers, creative, developers and AI enthusiasts to share ideas, collaborate, learn, and build innovatively with AI.
 <center>
