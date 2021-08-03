@@ -27,6 +27,8 @@ permalink: /Talks/
 
 
 - [**Balancing AI Courses and Real-World Projects, Mindset, and Securing an NVIDIA Internship**](https://omdena.com/blog/nvidia-ai/)
+
+
  
 - [**Formulating your career Path in Data Science (1st February, 2021**](https://medium.com/@grivineochieng/first-pie-ai-meetup-kenya-c6dd756929b1)
 
