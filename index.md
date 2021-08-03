@@ -15,7 +15,7 @@ He leads a thriving and highly engaging [**Artificial Intelligence Community**](
       </figure>
 </center>
 
-He has voluntarily dedicated his professional and personal time to help fellow tech developers from African nations be successful, and productive, availed 1500+ training and education data science scholarships and career opportunities to the Kenyan AI developer communities, growing, and improving the African’s AI developer ecosystem experience.
+He has voluntarily dedicated his professional and personal time to help fellow tech developers from African nations be successful, and productive, [**availed 1500+ training and education data science scholarships and career opportunities.**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) to the Kenyan AI developer communities, growing, and improving the African’s AI developer ecosystem experience.
 
 
 My bios and photos can be found on [**Kennedy Wangari's Media Press Kit**](https://drive.google.com/drive/folders/1aRmzvd4gwHbwlSXb1sEYfWW-cuyEjvHg?usp=sharing)
