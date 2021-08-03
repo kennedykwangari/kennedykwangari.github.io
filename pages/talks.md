@@ -44,10 +44,30 @@ permalink: /Talks/
 &nbsp;
 
 
+### Co-organized by Me:
 
-### Co-organized by me:
 
--Let’s Build, January 4, 2020.
+- **Pie & AI: Nairobi, Kenya: NeurIPS 2020 Meetup (10th December, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=um73FhxAjBs">Click here to view the Video</a>.</p>
+
+
+- **Pie & AI: Nairobi, Kenya: The Full Stack Data Scientist: Myth, Unicorn or New Normal? (17th November, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=bGzF2oi-veE">Click here to view the Video</a>.</p>
+
+
+ - **Pie & AI: Nairobi, Kenya: Organization, Tools And Workflows For Modern Data Scientist (15th September, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=YoS69_4zWHQ">Click here to view the Video</a>.</p>
+
+
+- **Pie & AI: Kigali, Rwanda: Breaking into AI: Learning Artificial Intelligence (22nd August 20220)**
+<p> <a href="https://www.youtube.com/watch?v=zVwl3MYomy4">Click here to view the Video</a>.</p>
+
+
+ - **Pie & AI: Chennai, India: Breaking into AI: Learning Artificial Intelligence (5th May, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=xJYlQ8XgFdk">Click here to view the Video</a>.</p>
+
+
+
 
 
 
