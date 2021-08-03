@@ -11,3 +11,11 @@ permalink: /Talks/
 <p align="center">
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/nvidia.jpg">
 </p>
+
+
+### Deeplearning.AI:  Breaking into AI: I took an Online Course, What’s Next?
+<p> <a href="https://www.youtube.com/watch?v=QSLh7CUEfXA">Click here to view the Video</a>.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/watch?v=QSLh7CUEfXA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
