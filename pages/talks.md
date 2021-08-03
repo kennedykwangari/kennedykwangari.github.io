@@ -20,15 +20,17 @@ permalink: /Talks/
  - **Deeplearning.AI:  Breaking into AI: I took an Online Course, What’s Next?**
 <p> <a href="https://www.youtube.com/watch?v=QSLh7CUEfXA">Click here to view the Video</a>.</p>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/watch?v=QSLh7CUEfXA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+
+- **Scorpio: Interview with ConfluxAI Data Scientist- Kennedy Wangari**
+<p> <a href="https://www.youtube.com/watch?v=DsYCAUrxutc">Click here to view the Video</a>.</p>
+
+
+- **Ishan Sharma Podcast: Machine Learning Roadmap 2020: Machine Learning for Beginners:**
+<p> <a href="https://www.youtube.com/watch?v=1ipW1sVIwiM">Click here to view the Video</a>.</p>
 
 
 
 - [**Balancing AI Courses and Real-World Projects, Mindset, and Securing an NVIDIA Internship**](https://omdena.com/blog/nvidia-ai/)
-
-
 
 
 
