@@ -16,6 +16,7 @@ permalink: /Awards/
 
 
 
+
 •	[**Student Award Recognition 2019 (Oracle Cloud Day Africa:**](https://www.capitalfm.co.ke/thesauce/2019-oracle-student-hackathon-sees-jkuat-students-honored-in-data-science-track/) One of the [**10 Kenyan**](http://www.jkuat.ac.ke/jkuat-students-top-the-2019-oracle-student-hackathon/)  students awarded the [**Oracle Student Award Recognition 2019 (Oracle Cloud Day Africa):**](http://discover.jkuat.ac.ke/jkuat-students-top-at-the-2019-oracle-student-hackathon/) in appreciation for our active contributions to innovation, technology, and supporting tech communities to leverage the Oracle services, and products innovatively.
 
 
@@ -23,3 +24,11 @@ permalink: /Awards/
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/awardee.jpg">
 </p>
 
+
+
+
+•	[**Earned the Contribution to Innovation and Technology Award (JKUSA AWARDS, JKUAT 2018):**](http://discover.jkuat.ac.ke/jkusa-award-winners-20172018-feted/) 
+
+<p align="center">
+  <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/winners.jpg">
+</p>
