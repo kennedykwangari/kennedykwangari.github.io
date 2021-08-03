@@ -11,15 +11,13 @@ Promoting access to world-class AI education in Africa and Kenya has been his to
 
 <br/>
 
--   **2019-2021: Deeplearning.AI Ambassador to Kenya**.
+-   [**2019-2021: Deeplearning.AI Ambassador to Kenya**](https://www.deeplearning.ai/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/)
 
-    -   [Data Scientist with Python Track (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/cbf12c8a5894bbf0523a7ab4df72f0ae63275196)
-    -   Negotiated and established significant AI developer communities’ partnerships, and collaborations with NVIDIA, DataCamp and PACKT.
-    -   Availed 1500+ training and educational data science scholarships and career opportunities to develop new Kenyan AI talent.
+    -   Negotiated and established significant AI developer communities’ partnerships, and collaborations with [**NVIDIA AI**](https://developer.nvidia.com/emerging-chapters), [**DataCamp Donates**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) and [**PACKT**](https://www.linkedin.com/posts/packt-publishing_datascience-data-packtexpertnetwork-activity-6803619378156883968-oaY1)
+    -   Availed [**1500+ training and educational data science scholarships**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) and career opportunities to develop new Kenyan AI talent.
     -   Created synergy, mobilized support, and deepened working relationships with various global, and local Artificial Intelligence Hubs and developer ecosystems.
-    -   Actively building an all-inclusive home, and the largest network of data science mentors worldwide through the #MentorKenyanDataScientists Programme
-    -   Secured innovations funding grants for 2 Graduate Research Scholars. 
-
+    -   Actively building an all-inclusive home, and the largest network of data science mentors worldwide through the **#MentorKenyanDataScientists Programme**
+    -   Secured innovations funding grants for [**2 Graduate Research Scholars**](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/). 
 
 <br/>
 
