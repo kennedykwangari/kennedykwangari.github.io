@@ -18,6 +18,6 @@ He leads a thriving and highly engaging Artificial Intelligence Community of mor
 He has voluntarily dedicated his professional and personal time to help fellow tech developers from African nations be successful, and productive, availed 1500+ training and education data science scholarships and career opportunities to the Kenyan AI developer communities, growing, and improving the African’s AI developer ecosystem experience.
 
 
-My bios and photos can be found on [**Kennedy Wangari Media Press Kit**](https://drive.google.com/drive/folders/1aRmzvd4gwHbwlSXb1sEYfWW-cuyEjvHg?usp=sharing)
+My bios and photos can be found on [**Kennedy Wangari's Media Press Kit**](https://drive.google.com/drive/folders/1aRmzvd4gwHbwlSXb1sEYfWW-cuyEjvHg?usp=sharing)
 
 To know about my projects, please refer to my [**GitHub Profile**](https://github.com/kennedykwangari)
