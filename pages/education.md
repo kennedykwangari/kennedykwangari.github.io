@@ -9,7 +9,10 @@ permalink: /Education/
 ](https://github.com/kennedykwangari/Disaster-Watcher-Crises-Alert-and-Monitoring-System)
 -   High School from [Starehe Boys' Centre and School](http://www.stareheboyscentre.ac.ke/sbc/) (SBC) (2012 - 2015)
 -   Courses relevant to my subject of interest:
-    -   [Data Scientist with Python Track (DataCamp)](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fo1asim0it9204nv%2FData%2520Scientist%2520with%2520Python%2520Track.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEFFOHFcOzP0mGWOxA6PbOxJkcDow)
-    -   [Data Analyst with Python Track (DataCamp)](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fo1asim0it9204nv%2FData%2520Scientist%2520with%2520Python%2520Track.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEFFOHFcOzP0mGWOxA6PbOxJkcDow)
-    -   [Deep Learning Specialization (deeplearning.ai)](https://www.google.com/url?)
+    -   [Data Scientist with Python Track (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/cbf12c8a5894bbf0523a7ab4df72f0ae63275196)
+    -   [Machine Learning Scientist with Python (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/cbea012a54c87b987dd613a655f0c88cd3e7b3d2)
+    -   [Natural Language Processing (Deeplearning.AI)](https://www.coursera.org/account/accomplishments/specialization/EJ6DG2BJ82QV)
+    -   [TensorFlow: Data and Deployment (Deeplearning.AI)](https://www.coursera.org/account/accomplishments/specialization/QT8VS3453TP8)
+    -   [Advanced Machine Learning (HSE University)](https://www.coursera.org/account/accomplishments/specialization/AL83HDBBYFJ3)
+   
     
