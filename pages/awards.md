@@ -29,6 +29,8 @@ permalink: /Awards/
 
 •	[**Earned the Contribution to Innovation and Technology Award (JKUSA AWARDS, JKUAT 2018):**](http://discover.jkuat.ac.ke/jkusa-award-winners-20172018-feted/) 
 
-<p align="center">
-  <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/winners.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/winners.jpg">
+      </figure>
+</center>
