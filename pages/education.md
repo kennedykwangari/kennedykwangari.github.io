@@ -3,7 +3,7 @@ layout: page
 title: Education
 permalink: /Education/
 ---
-(The formal ones may be)
+**(The formal ones may be)**
 
   -   Bsc.Information Technology from [Jomo Kenyatta University of Agriculture and Technology](http://www.jkuat.ac.ke/jkuat-students-top-the-2019-oracle-student-hackathon/) (2016 - 2020) (Final Year Dissertation: [Disaster-Watcher-Crises-Alert-and-Monitoring-System
 ](https://github.com/kennedykwangari/Disaster-Watcher-Crises-Alert-and-Monitoring-System)
