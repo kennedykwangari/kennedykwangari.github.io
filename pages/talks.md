@@ -34,6 +34,14 @@ permalink: /Talks/
 
 
 
+- [**Omdena AI Webinar: Are Competitions enough to learn Data Science Skills Required to excel on the job?**](https://omdena.com/blog/data-science-skills-required/)
+
+
+- [**International Webinar on Artificial Intelligence & Machine Learning: JSPM’s Jayawant Institute of Management Studies, Pune, India (03-05th June, 2020)**](https://www.facebook.com/jspmjims/posts/international-webinar-on-ai-machine-learning-jspms-jayawant-institute-of-managem/3307946485891445/)
+
+<p> <a href="https://www.youtube.com/watch?v=gK622zgDcOI">Click here to view the Video</a>.</p>
+
+
 
  
 - [**Formulating your career Path in Data Science (1st February, 2021**](https://medium.com/@grivineochieng/first-pie-ai-meetup-kenya-c6dd756929b1)
