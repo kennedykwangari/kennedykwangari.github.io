@@ -28,8 +28,9 @@ Attended top tier Machine Learning Conferences (NeurIPS, ICML, ICLR, AI4GOOD, Te
 
 [**Balancing AI Courses and Real-World Projects, Mindset, and Securing an NVIDIA Internship**](https://omdena.com/blog/nvidia-ai/)
  
+ [**Formulating your career Path in Data Science (1st February, 2021**](https://medium.com/@grivineochieng/first-pie-ai-meetup-kenya-c6dd756929b1)
 
-### Formulating your career Path in Data Science (1st February, 2021)
+
 &nbsp;
 <p align="center">
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangarinairobi.jpeg">
