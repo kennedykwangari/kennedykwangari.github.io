@@ -20,4 +20,5 @@ He has voluntarily dedicated his professional and personal time to help fellow t
 
 My bios and photos can be found on [**Kennedy Wangari's Media Press Kit**](https://drive.google.com/drive/folders/1aRmzvd4gwHbwlSXb1sEYfWW-cuyEjvHg?usp=sharing)
 
-To know about my projects, please refer to my [**GitHub Profile**](https://github.com/kennedykwangari)
+To know more about my technical work and projects, please refer to my [**GitHub Profile**](https://github.com/kennedykwangari)
+
