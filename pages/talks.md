@@ -84,7 +84,7 @@ permalink: /Talks/
 
 - **Pie & AI: Nairobi, Kenya: Deploying: AI Machine Learning in Production (04th April, 2020)**
 <p> <a href="https://www.youtube.com/watch?v=LNtQvnDxsew&t=4s">Click here to view the Video</a>.</p>
-    <iframe width=100% height=100% src="https://www.youtube.com/watch?v=LNtQvnDxsew&t=4s"
+    <iframe width=100% height=100% src="https://www.youtube.com/watch?v=LNtQvnDxsew&t=4s">
        ?autoplay=1&cc_load_policy=1&rel=0&showinfo=0"
        frameborder="0" allowfullscreen>
     </iframe>
