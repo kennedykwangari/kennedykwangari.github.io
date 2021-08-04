@@ -6,7 +6,7 @@ permalink: /projects/
 
 #### Open Source contributions to Data Science and Machine Learning Projects
 
-1.  [**Omdena AI**](https://omdena.com)
+-   [**Omdena AI**](https://omdena.com)
  
 a) [**Using Artificial Intelligence to stop Forest Fires through flame and smoke detection**](https://omdena.com/blog/stop-wildfires/)
 	
@@ -29,7 +29,7 @@ A team of [**28 AI Experts and Data Scientists**](https://omdena.com/blog/artifi
 </p>
 
 
-2.  [**Masakhane- A living collection of NLP projects for Africans, by Africans**](https://www.masakhane.io)
+-   [**Masakhane- A living collection of NLP projects for Africans, by Africans**](https://www.masakhane.io)
 
  
  Active Masakhane Community Member, making contributions to its open source [**Natural Language Processing Projects**](https://github.com/masakhane-io/masakhane-mt)
