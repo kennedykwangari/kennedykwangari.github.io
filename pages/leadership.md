@@ -6,7 +6,7 @@ permalink: /Leadership/
 
 Kennedy has been long concerned that AI is a missed opportunity for improving African lives, and that the AI industry is missing out on talent from African nations, because they do not have access to the right AI education.
 
-Promoting access to world-class AI education in Africa and Kenya has been his top priority agenda. He is a key advocate, and promoter of the Sustainable Development Goal 4: promoting data science education for all. 
+Promoting access to world-class AI education in Africa and Kenya has been his top priority agenda. He is a key advocate, and promoter of the **Sustainable Development Goal 4: promoting data science education for all.** 
 
 
 <br/>
