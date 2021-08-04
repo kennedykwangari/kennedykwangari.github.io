@@ -4,7 +4,7 @@ title: Blog
 permalink: /Blog/
 ---
 
-## DataInterviews Decoded
+## Data Interviews Decoded
 
 [**Omdena AI**](https://omdena.com)
  
