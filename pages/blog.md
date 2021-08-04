@@ -4,6 +4,7 @@ title: Blog
 permalink: /Blog/
 ---
 
-Open Source contributions to data science and machine learning projects:
+## DataInterviews Decoded
 
- [**Omdena AI**](https://omdena.com)
+[**Omdena AI**](https://omdena.com)
+ 
