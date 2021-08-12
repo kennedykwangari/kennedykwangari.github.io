@@ -50,8 +50,9 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 
  
-- [**Formulating your career Path in Data Science (1st February, 2021**](https://medium.com/@grivineochieng/first-pie-ai-meetup-kenya-c6dd756929b1)
+- [**Formulating your career Path in Data Science (1st February, 2021)**](https://medium.com/@grivineochieng/first-pie-ai-meetup-kenya-c6dd756929b1)
 
+[**Deeplearning.AI Nairobi: Formulating your career Path in Data Science (1st February, 2021)**](https://www.deeplearning.ai/event/pie-ai-juja/)
 
 &nbsp;
 <p align="center">
