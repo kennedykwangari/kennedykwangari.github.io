@@ -94,6 +94,11 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 
 
+- **Pie & AI: Nairobi, Kenya: Deep Learning on AWS (20th June, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=xMULvvj9RdM">Click here to view the Video</a>.</p>
+
+
+
  - **Pie & AI: Chennai, India: Breaking into AI: Learning Artificial Intelligence (5th May, 2020)**
 <p> <a href="https://www.youtube.com/watch?v=xJYlQ8XgFdk">Click here to view the Video</a>.</p>
 
