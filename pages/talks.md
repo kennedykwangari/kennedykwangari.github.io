@@ -30,6 +30,13 @@ I’m grateful for every opportunity to share my work. I can talk about:
 - **Scorpio: Interview with ConfluxAI Data Scientist- Kennedy Wangari**
 <p> <a href="https://www.youtube.com/watch?v=DsYCAUrxutc">Click here to view the Video</a>.</p>
 
+- [**Jenga School Webinar Bytes Series: Where do you find the data science opportunities and tap into the talent?**](https://twitter.com/JENGASchool/status/1323675680077471745/photo/1)
+
+<p align="center">
+  <img width="570" height="450" src="https://github.com/kennedykwangari/kennedykwangari.github.io/blob/master/images/jenga.jpg">
+</p>
+
+
 
 - **Ishan Sharma Podcast: Machine Learning Roadmap 2020: Machine Learning for Beginners:**
 <p> <a href="https://www.youtube.com/watch?v=1ipW1sVIwiM">Click here to view the Video</a>.</p>
