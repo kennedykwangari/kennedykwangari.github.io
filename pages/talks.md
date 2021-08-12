@@ -4,10 +4,18 @@ title: Talks
 permalink: /Talks/
 ---
 
-**Selected Public Speaking, Workshops, Conferences, and Presentations at large Technology/ Machine Learning/ Data Science Conferences, practical workshops, and meetups to share our knowledge, expertise and thoughts with the data science community**
+## Talks /Seminars/Workshops
 
+I’m grateful for every opportunity to share my work. I can talk about:
 
-- Attended top tier Machine Learning Conferences (NeurIPS, ICML, ICLR, AI4GOOD, TensorFlow Dev Summit, Deep Learning Indaba).
+1.	Acing Data Interviews: Data Science, Machine Learning, and Data Engineering interviews and recruiting pipelines
+2.	Production Machine Learning Systems at scale.
+3.	Artificial Intelligence, and Data Science Developer Relations, Advocacy, and Tech Developer Community Ecosystems Building
+4.	TensorFlow, PyTorch, and high-level frameworks
+
+- My bios and photos can be found on [**Kennedy Wangari's Media Press Kit**](https://drive.google.com/drive/folders/1aRmzvd4gwHbwlSXb1sEYfWW-cuyEjvHg?usp=sharing)
+
+**Selected list of Public Speaking Talks, Workshops, Conferences, and Presentations at large Technology/ Machine Learning/ Data Science Conferences, practical workshops, and meetups to share our knowledge, expertise and thoughts with the data science community**
 
 
 - [**NVIDIA GTC 2021:   A New Africa and a New World: The State and Future of African Developer Ecosystems**](https://www.nvidia.cn/on-demand/session/gtcspring21-e32500/?playlistId=playList-efd5379e-ca6f-4121-b375-37db43c0b3dd)
