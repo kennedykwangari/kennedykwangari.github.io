@@ -4,8 +4,6 @@ title: Talks
 permalink: /Talks/
 ---
 
-## Talks /Seminars/Workshops
-
 I’m grateful for every opportunity to share my work. I can talk about:
 
 1.	Acing Data Interviews: Data Science, Machine Learning, and Data Engineering interviews and recruiting pipelines
