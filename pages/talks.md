@@ -53,6 +53,12 @@ permalink: /Talks/
 </p>
 &nbsp;
 
+- [**Mastering Data Science Interviews Loop: AI Ghana (1st May, 2021)**](https://twitter.com/AIGhana1/status/1386966310601609216)
+
+
+- [**Data Science Open Day: Predictive Analytics Lab (19th August, 2021)**](https://www.facebook.com/predictiveanalyticske/photos/a.1273856936066227/4258488207603070/)
+
+
 
 ### Co-organized by Me:
 
