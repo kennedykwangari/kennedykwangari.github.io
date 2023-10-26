@@ -11,7 +11,7 @@ He is a key advocate, and promoter of the [**Sustainable Development Goal 4:prom
 He leads a thriving and highly engaging [**Artificial Intelligence Community**](https://www.deeplearning.ai/events/) of more than 300+ Kenyan students, researchers, creative, developers and AI enthusiasts to share ideas, collaborate, learn, and build innovatively with AI.
 <center>
   <figure>
-    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/mentoring.jpg">
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/mentoring.jpeg">
       </figure>
 </center>
 
