@@ -1,11 +1,14 @@
 # About
 
-[**Kennedy Wangari**](https://www.linkedin.com/in/kennedykwangari/) is an award winning Data Scientist based in Nairobi, Kenya. A Developer Advocate, Technical AI Community Lead, and Innovator at [**Deeplearning.AI**](https://www.deeplearning.ai): growing highly impactful tech/ developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow.
+Kennedy is a Data Scientist, Technology Community Builder and Technology Columnist; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
 
-Promoting access to [**world-class AI education**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) in Sub-Saharan Africa and Kenya has been his top priority agenda. His tremendous advocacy efforts for better AI Education across the African continent, championing for inclusion, and better representation of black people in AI, and AI processes have earned him the honorary title: [**The Data Captain from Africa**](https://www.linkedin.com/posts/packt-publishing_datascience-data-packtexpertnetwork-activity-6803619378156883968-oaY1).
+Previously, he has worked at UNEP 🇺🇳, NVIDIA, Xetova and NCBA Bank to deliver high-impact data products and services –from data strategy consulting to end-to-end project implementation across the marketing, supply chain, finance and environment fields.
 
-He leads a thriving and highly engaging [**Artificial Intelligence Community**](https://www.deeplearning.ai/events/) of more than 300+ Kenyan students, researchers, creative, developers and AI enthusiasts to share ideas, collaborate, learn, and build innovatively with AI.
+His research work seeks to enhance a better understanding of the societal and environmental impacts of AI models, datasets and systems.  
 
+As a Technology Columnist he is on a mission to educate, inform and entertain Africa about emerging technologies, trends and developments in ways that inspire innovation.
+
+He shares his passion for a sustainable data literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio and Print Media.
 
  [**Kennedy Kamande Wangari**](https://www.linkedin.com/in/kennedykwangari/)
  
