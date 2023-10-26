@@ -9,5 +9,5 @@ He leads a thriving and highly engaging [**Artificial Intelligence Community**](
 
  [**Kennedy Kamande Wangari**](https://www.linkedin.com/in/kennedykwangari/)
  
-**Data Scientist ❙ AI & ML Developer Relations ❙ Technical Community Builder**
+**MSc AI Student @The University of Edinburgh 📚🤖 ❙❙ Developer Advocate - Artificial Intelligence 🥑 ❙❙ Technology Columnist @The Star Newspaper📰✍️**
 
