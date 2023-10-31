@@ -1,1 +1,1 @@
-# Kennedy Wangari's Personal Blog
+# Kennedy Kamande Wangari
