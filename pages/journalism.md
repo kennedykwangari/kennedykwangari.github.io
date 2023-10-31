@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Journalism & Media
-permalink: /Leadership/
+permalink: /Journalism/
 ---
 
 ⭐Kennedy is a Technology Columnist with the Star Newspaper (a local newspaper in Kenya), where he writes a continued series of ICT-related articles.📰✍️ 
