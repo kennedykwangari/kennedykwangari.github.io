@@ -10,17 +10,22 @@ He is on a mission to educate, inform and entertain Africa about emerging techno
 
 He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio, and Newspapers.
 
+  <p align="center">
+  <img width="790" height="600" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedypaper.jpg">
+</p>
 
 <br/>
 
 -   [**Access our Muck Rack Portfolio Platform:**](https://muckrack.com/kennedykwangari)
 
+
+<br>-   [**Featured in the Daily Nation Newspaper (2023):**](https://nation.africa/resource/blob/4209762/73a0a7d1417e0fc14a5e953c14e409b6/weekly-review-34-data.pdf)
+
   <p align="center">
-  <img width="790" height="550" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedypaper.jpg">
+  <img width="790" height="600" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2021.jpg">
 </p>
 
-
-<br>-   [**Featured by the Daily Nation Newspaper:**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
+<br>-   [**Featured in the Daily Nation Newspaper (2021):**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
 
 <br/>
 
