@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Journalism and Media
+title: Journalism & Media
 permalink: /Leadership/
 ---
 
