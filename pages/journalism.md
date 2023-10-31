@@ -15,16 +15,17 @@ He shares his passion for a sustainable data-literate world through public speak
 
 -   [**Access our Muck Rack Portfolio Platform:**](https://muckrack.com/kennedykwangari)
 
-    - In the Media: Featured by the Daily Nation Newspaper [**The time to prepare for the dangers of AI is now**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
+  <p align="center">
+  <img width="790" height="550" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedypaper.jpg">
+</p>
 
-    -   Availed [**1500+ training and educational data science scholarships**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) and career opportunities to develop new Kenyan AI talent.
-    -   Created synergy, mobilized support, and deepened working relationships with various global, and local Artificial Intelligence Hubs and developer ecosystems.
-    -   Actively building an all-inclusive home, and the largest network of data science mentors worldwide through the **#MentorKenyanDataScientists Programme**
-    -   Secured innovations funding grants for [**2 Graduate Research Scholars**](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/). 
+</p>
+
+<br>-   [**Featured by the Daily Nation Newspaper:**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
 
 <br/>
 
-
+</p>
 
 
 
