@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leadership & Honors
+title: Leadership
 permalink: /Leadership & Honors/
 ---
 
