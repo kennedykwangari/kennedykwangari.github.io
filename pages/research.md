@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research and Publications
-permalink: /Leadership/
+title: Research
+permalink: /Research and Publications/
 ---
 
 Kennedy has been long concerned that AI is a missed opportunity for improving African lives, and that the AI industry is missing out on talent from African nations, because they do not have access to the right AI education.
