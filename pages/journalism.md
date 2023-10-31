@@ -19,13 +19,10 @@ He shares his passion for a sustainable data-literate world through public speak
   <img width="790" height="550" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedypaper.jpg">
 </p>
 
-</p>
 
 <br>-   [**Featured by the Daily Nation Newspaper:**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
 
 <br/>
-
-</p>
 
 
 
