@@ -6,12 +6,12 @@ permalink: /Leadership/
 
 ⭐Kennedy is a Technology Columnist with the Star Newspaper (a local newspaper in Kenya), where he writes a continued series of ICT-related articles.📰✍️ 
 
-He is on a mission to educate, inform and entertain Africa about emerging technologies, trends and developments in ways that inspire innovation.
+He is on a mission to educate, inform, and entertain Africa about emerging technologies, trends, and developments in ways that inspire innovation.
 
 He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio, and Newspapers.
 
   <p align="center">
-  <img width="790" height="600" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedypaper.jpg">
+  <img width="750" height="600" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2022.jpg">
 </p>
 
 <br/>
@@ -22,7 +22,7 @@ He shares his passion for a sustainable data-literate world through public speak
 <br> -    [**Featured in the Daily Nation Newspaper (2023):**](https://nation.africa/resource/blob/4209762/73a0a7d1417e0fc14a5e953c14e409b6/weekly-review-34-data.pdf)
 
   <p align="center">
-  <img width="790" height="600" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2021.jpg">
+  <img width="750" height="640" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2021.jpg">
 </p>
 
 <br> -   [**Featured in the Daily Nation Newspaper (2021):**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
