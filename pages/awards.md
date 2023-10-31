@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Awards & Honors
-permalink: /Awards/
+title: Awards
+permalink: /Awards & Honors/
 ---
 
 **Selected Awards, Honors, and Recognitions for our contributions, work, and efforts in the Artificial Intelligence field**
