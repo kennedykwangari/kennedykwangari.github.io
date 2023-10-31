@@ -19,13 +19,13 @@ He shares his passion for a sustainable data-literate world through public speak
 -   [**Access our Muck Rack Portfolio Platform:**](https://muckrack.com/kennedykwangari)
 
 
-<br>-   [**Featured in the Daily Nation Newspaper (2023):**](https://nation.africa/resource/blob/4209762/73a0a7d1417e0fc14a5e953c14e409b6/weekly-review-34-data.pdf)
+<br> -    [**Featured in the Daily Nation Newspaper (2023):**](https://nation.africa/resource/blob/4209762/73a0a7d1417e0fc14a5e953c14e409b6/weekly-review-34-data.pdf)
 
   <p align="center">
   <img width="790" height="600" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2021.jpg">
 </p>
 
-<br>-   [**Featured in the Daily Nation Newspaper (2021):**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
+<br> -   [**Featured in the Daily Nation Newspaper (2021):**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
 
 <br/>
 
