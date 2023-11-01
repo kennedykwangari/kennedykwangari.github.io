@@ -4,17 +4,20 @@ title: Talks
 permalink: /Talks/
 ---
 
-Kennedy has delivered numerous keynote sessions, workshops, presentations and talks at local and global technology, data and artificial intelligence conferences. From presenting his work from UNEP at the 22nd Scipy Conference 2023 in Austin, Texas, to the 4th UN Data Forum 2023 in China, the Mozilla Festival House Kenya 2023, Deeplearning.AI monthly webinars, the ALX Africa Nairobi Karibu Ceremony, the NVIDIA GTC 2021 Conf, the Deep Learning Indaba and in many other forums.
+Kennedy has delivered numerous keynote sessions, workshops, presentations, and talks at local and global technology, data, and artificial intelligence conferences. From presenting his work from UNEP at the 22nd Scipy Conference 2023 in Austin, Texas, to the 4th UN Data Forum 2023 in China, the Mozilla Festival House Kenya 2023, Deeplearning.AI monthly webinars, the ALX Africa Nairobi Karibu Ceremony, the NVIDIA GTC 2021 Conf, the Deep Learning Indaba and in many other forums.
+
+<p align="center">
+  <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/undp.jpg">
+</p>
 
 
 I’m grateful for every opportunity to share my work. I can talk about:
 
 1.	Natural Language Processing for Kenyan Languages
-2.	Production Machine Learning Systems at scale.
+2.	Production of Machine Learning Systems at scale.
 3.	Artificial Intelligence, and Data Science Developer Relations, Advocacy, and Tech Developer Community Ecosystems Building
 4.	TensorFlow, PyTorch, and high-level frameworks
 
-- My bios and photos can be found on [**Kennedy Wangari's Media Press Kit**](https://drive.google.com/drive/folders/1aRmzvd4gwHbwlSXb1sEYfWW-cuyEjvHg?usp=sharing)
 
 **Selected list of Public Speaking Talks, Workshops, Conferences, and Presentations at large Technology/ Machine Learning/ Data Science Conferences, practical workshops, and meetups to share our knowledge, expertise and thoughts with the data science community**
 
