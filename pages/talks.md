@@ -13,13 +13,12 @@ Kennedy has delivered numerous keynote sessions, workshops, presentations, and t
 
 I’m grateful for every opportunity to share my work. I can talk about:
 
-1.	Natural Language Processing for Kenyan Languages
-2.	Production of Machine Learning Systems at scale.
-3.	Artificial Intelligence, and Data Science Developer Relations, Advocacy, and Tech Developer Community Ecosystems Building
-4.	TensorFlow, PyTorch, and high-level frameworks
+1.	Neural Machine Translation for Kenyan Low-Resourced Languages
+2.	Developer relations, building and supporting inclusive technology ecosystems
+3.	Data product management
+4.	Time Series Forecasting
 
-
-**Selected list of Public Speaking Talks, Workshops, Conferences, and Presentations at large Technology/ Machine Learning/ Data Science Conferences, practical workshops, and meetups to share our knowledge, expertise and thoughts with the data science community**
+### Selected List of Public Speaking Talks, Workshops, Conferences, and Presentations at Technology/ Machine Learning/ Data Science Conferences and Meetups to share our knowledge, expertise, and thoughts with the data science community
 
 - [**The UNDP Data-driven policy and development in Africa borderlands**](https://www.undp.org/africa/africa-borderlands-centre/blog/data-driven-policy-and-development-africa-borderlands)
 
