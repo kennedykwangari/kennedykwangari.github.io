@@ -1,4 +1,4 @@
-[**Kennedy Kamande Wangari**](https://www.linkedin.com/in/kennedykwangari/) is a 26-year-old award-winning Data Scientist, Technology Community Builder, Technology Columnist, and an AI Researcher from Kenya; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
+[**Kennedy Kamande Wangari**](https://www.linkedin.com/in/kennedykwangari/) is a 26-year-old award-winning Data Scientist, Technology Community Builder, Technology Columnist, and a Researcher from Kenya; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
 
 <center>
   <figure>
