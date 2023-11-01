@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Journalism & Media
+title: Journalism
 permalink: /Journalism/
 ---
 
