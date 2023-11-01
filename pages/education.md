@@ -1,15 +1,25 @@
 ---
 layout: page
 title: Education
-permalink: /Education/
+permalink: /Education, Training and Certifications/
 ---
-**(The formal ones may be)**
 
-  -   [Bsc. Information Technology](http://www.jkuat.ac.ke/departments/it/) from [Jomo Kenyatta University of Agriculture and Technology](http://www.jkuat.ac.ke/jkuat-students-top-the-2019-oracle-student-hackathon/) (2016 - 2020) (Final Year Dissertation: [Disaster-Watcher-Crises-Alert-and-Monitoring-System
+- As a postgraduate student, pursuing **MSc. Artificial Intelligence** at **the University of Edinburgh**, his work will enhance a better understanding of the societal and environmental impacts of AI models, datasets and systems. 
+
+▶️ His research topics are in:
+- Calculating the carbon impact of AI algorithms
+- Responsible and reproducible machine learning
+- Investigating and documenting large datasets
+- Best practices for data collection and sharing
+- Natural Language Processing for Kenyan Languages
+
+
+-[Bsc. Information Technology](http://www.jkuat.ac.ke/departments/it/) from [Jomo Kenyatta University of Agriculture and Technology](http://www.jkuat.ac.ke/jkuat-students-top-the-2019-oracle-student-hackathon/) (2016 - 2020) (Final Year Dissertation: [Disaster-Watcher-Crises-Alert-and-Monitoring-System
 ](https://github.com/kennedykwangari/Disaster-Watcher-Crises-Alert-and-Monitoring-System)
+
 -   High School from [Starehe Boys' Centre and School](http://www.stareheboyscentre.ac.ke/sbc/) (SBC) (2012 - 2015)
 
--   Courses relevant to my subject of interest:
+-   Courses, Certifications and Trainings Relevant to my subjects of interest:
 
     -   [Data Scientist with Python Track (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/cbf12c8a5894bbf0523a7ab4df72f0ae63275196)
     -   [Machine Learning Scientist with Python (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/cbea012a54c87b987dd613a655f0c88cd3e7b3d2)
