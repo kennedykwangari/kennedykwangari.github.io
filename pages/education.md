@@ -4,7 +4,7 @@ title: Education
 permalink: /Education, Training and Certifications/
 ---
 
-- As a postgraduate student (**2022-2023**), pursuing **MSc. Artificial Intelligence** at **the University of Edinburgh**, his work will enhance a better understanding of the societal and environmental impacts of AI models, datasets and systems. 
+- As a postgraduate student (**2023-2024**), pursuing **MSc. Artificial Intelligence** at **the University of Edinburgh**, his work will enhance a better understanding of the societal and environmental impacts of AI models, datasets and systems. 
 
 ▶️ His research topics are in:
 - Calculating the carbon impact of AI algorithms
