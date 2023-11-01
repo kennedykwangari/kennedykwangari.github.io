@@ -10,6 +10,9 @@ He is on a mission to educate, inform, and entertain Africa about emerging techn
 
 He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio, and Newspapers.
 
+-   [**Access our Muck Rack Portfolio Platform:**](https://muckrack.com/kennedykwangari)
+  
+
   <p align="center">
   <img width="750" height="600" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2022.jpg">
 </p>
