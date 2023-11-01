@@ -12,7 +12,7 @@ He is the catalyst that brings your brand, stakeholders, data, technology, and d
 
 He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio, and Newspapers.
 
-🎁 Through Deeplearning.AI, Kennedy has excelled in promoting partnerships with educators and technology players such as Coursera, Datacamp, Dataquest, NVIDIA AI and Packt to increase educational and professional opportunities, participation, and representation of the underserved communities in Africa.  
+🎁 Through Deeplearning.AI, Kennedy has excelled in promoting partnerships with educators and technology players such as Coursera, Datacamp, Dataquest, NVIDIA AI and [**PACKT**](https://www.linkedin.com/posts/packt-publishing_datascience-data-packtexpertnetwork-activity-6803619378156883968-oaY1/) to increase educational and professional opportunities, participation, and representation of the underserved communities in Africa.  
 
 <center>
   <figure>
