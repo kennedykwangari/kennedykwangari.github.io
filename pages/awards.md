@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Awards
-permalink: /Awards & Honors/
+title: Awards and Honors
+permalink: /Awards and Honors/
 ---
 
 **Selected Awards, Honors, and Recognitions for our Contributions, Work, and Efforts in the Data and Artificial Intelligence Industry**
