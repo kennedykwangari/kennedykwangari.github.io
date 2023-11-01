@@ -22,7 +22,7 @@ He shares his passion for a sustainable data-literate world through public speak
 
 👨‍🎓He has empowered over 7,691 black technology community members with free one-year data education scholarships from Coursera and Datacamp to improve their data literacy levels and advance for in-demand careers in the data field.
 
-💥💥 Coursera, Deeplearning.AI, Oracle Africa, and the Ministry of Education, Science and Technology in Kenya through the President's Award🏅have feted Kennedy for his contributions to closing the technology skills gap for the underserved talents in Africa.  
+💥💥 Coursera, Deeplearning.AI, Oracle Africa, and the Ministry of Education, Science and Technology in Kenya🏅have feted Kennedy for his contributions to closing the technology skills gap for the underserved talents in Africa.  
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedystatehouse.jpg" width="45%" />
