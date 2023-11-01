@@ -3,7 +3,11 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+-   [**Github Projects**](https://github.com/kennedykwangari)
 
+-   [**Kaggle Projects**](https://www.kaggle.com/kennedywangari13432)
+
+    
 #### Open Source contributions to Data Science and Machine Learning Projects
 
 -   [**Omdena AI**](https://omdena.com)
