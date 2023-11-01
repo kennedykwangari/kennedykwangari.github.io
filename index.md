@@ -6,9 +6,9 @@
       </figure>
 </center>
 
-🧭 Previously, he has worked at UNEP🇺🇳, NVIDIA, Xetova, and NCBA Bank to deliver high-impact data products and services –from data strategy consulting to end-to-end project implementation across the marketing, supply chain, finance, and environment fields.
+🧭 Previously, he has worked with UNEP, NVIDIA, Xetova, and NCBA Bank to deliver high-impact data products and services –from data strategy consulting to end-to-end project implementation across the marketing, supply chain, finance, and environment fields.
 
-He is the catalyst that brings your brand, stakeholders, data, technology and decisions together to deliver better data products and create delightful customer experiences, resulting in accelerated💰 growth 📈 and impact.
+He is the catalyst that brings your brand, stakeholders, data, technology, and decisions together to deliver better data products and create delightful customer experiences, resulting in accelerated💰 growth 📈 and impact.
 
 He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio, and Newspapers.
 
