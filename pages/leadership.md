@@ -4,9 +4,7 @@ title: Leadership
 permalink: /Leadership & Honors/
 ---
 
-Kennedy has been long concerned that AI is a missed opportunity for improving African lives, and that the AI industry is missing out on talent from African nations, because they do not have access to the right AI education.
-
-Promoting access to world-class AI education in Africa and Kenya has been his top priority agenda. He is a key advocate, and promoter of the **Sustainable Development Goal 4: promoting data science education for all.** 
+As a self-taught data scientist from a minority under-represented group in the Global South, Kennedy empathetically understands how daunting it can be for an underserved youth to seek education and employability in Kenya. He believes that education is one of the most important ways for us to help remove the barriers to diversity and inclusion in the data field.
 
 <br/>
 
@@ -16,6 +14,8 @@ Promoting access to world-class AI education in Africa and Kenya has been his to
 <br/>
 
 -   [**2019-2023: Deeplearning.AI Ambassador to Kenya**](https://www.deeplearning.ai/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/)
+
+As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community with a membership of 4,527 learners, and exists both online, and offline.  He supports the community of learners in Kenya and globally with the right tools, resources, and a platform to connect, check in, learn, voice, and share with other learners, while building meaningful careers in artificial intelligence.
 
 - Through Deeplearning.AI, Kennedy has excelled in promoting partnerships with educators and technology players such as Coursera, Datacamp, Dataquest, NVIDIA AI and Packt to increase educational and professional opportunities, participation and representation of the underserved communities in Africa.
   
