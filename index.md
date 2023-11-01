@@ -1,4 +1,5 @@
-[**Kennedy Wangari**](https://www.linkedin.com/in/kennedykwangari/) is an award winning Data Scientist based in Nairobi, Kenya. A Developer Advocate, Technical AI Community Lead, and Innovator at [**Deeplearning.AI**](https://www.deeplearning.ai): growing highly impactful tech/ developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow.
+[**Kennedy Kamande Wangari**](https://www.linkedin.com/in/kennedykwangari/) is a 26-year-old award-winning Data Scientist, Technology Community Builder, Technology Columnist, and an AI Researcher from Kenya; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
+
 <center>
   <figure>
     <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedykwangari.jpg">
@@ -9,17 +10,20 @@
 
 He is the catalyst that brings your brand, stakeholders, data, technology and decisions together to deliver better data products and create delightful customer experiences, resulting in accelerated💰 growth 📈 and impact.
 
+He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio, and Newspapers.
 
-He leads a thriving and highly engaging [**Artificial Intelligence Community**](https://www.deeplearning.ai/events/) of more than 300+ Kenyan students, researchers, creative, developers and AI enthusiasts to share ideas, collaborate, learn, and build innovatively with AI.
+🎁 Through Deeplearning.AI, Kennedy has excelled in promoting partnerships with educators and technology players such as Coursera, Datacamp, Dataquest, NVIDIA AI and Packt to increase educational and professional opportunities, participation, and representation of the underserved communities in Africa.  
+
 <center>
   <figure>
     <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/mentoring.jpeg">
       </figure>
 </center>
 
-💥💥 Coursera, Deeplearning.AI, Oracle Africa, and the Ministry of Education, Science and Technology in Kenya 🏅have feted Kennedy for his contributions to closing the technology skills gap for the undeserved talents in Africa.  
+👨‍🎓He has empowered over 7,691 black technology community members with free one-year data education scholarships from Coursera and Datacamp to improve their data literacy levels and advance for in-demand careers in the data field.
 
-Copied!
+💥💥 Coursera, Deeplearning.AI, Oracle Africa, and the Ministry of Education, Science and Technology in Kenya through the President's Award🏅have feted Kennedy for his contributions to closing the technology skills gap for the underserved talents in Africa.  
+
 <p float="left">
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedystatehouse.jpg" width="45%" />
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedystate2.jpg" width="45%" />
