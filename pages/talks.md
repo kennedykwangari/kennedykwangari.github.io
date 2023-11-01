@@ -4,9 +4,12 @@ title: Talks
 permalink: /Talks/
 ---
 
+Kennedy has delivered numerous keynote sessions, workshops, presentations and talks at local and global technology, data and artificial intelligence conferences. From presenting his work from UNEP at the 22nd Scipy Conference 2023 in Austin, Texas, to the 4th UN Data Forum 2023 in China, the Mozilla Festival House Kenya 2023, Deeplearning.AI monthly webinars, the ALX Africa Nairobi Karibu Ceremony, the NVIDIA GTC 2021 Conf, the Deep Learning Indaba and in many other forums.
+
+
 I’m grateful for every opportunity to share my work. I can talk about:
 
-1.	Acing Data Interviews: Data Science, Machine Learning, and Data Engineering interviews and recruiting pipelines
+1.	Natural Language Processing for Kenyan Languages
 2.	Production Machine Learning Systems at scale.
 3.	Artificial Intelligence, and Data Science Developer Relations, Advocacy, and Tech Developer Community Ecosystems Building
 4.	TensorFlow, PyTorch, and high-level frameworks
