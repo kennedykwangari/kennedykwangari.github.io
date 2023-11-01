@@ -15,10 +15,11 @@ He leads a thriving and highly engaging [**Artificial Intelligence Community**](
       </figure>
 </center>
 
-He has voluntarily dedicated his professional and personal time to help fellow tech developers from African nations be successful, and productive, [**availed 1500+ training and education data science scholarships and career opportunities.**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) to the Kenyan AI developer communities, growing, and improving the African’s AI developer ecosystem experience.
+💥💥 Coursera, Deeplearning.AI, Oracle Africa, and the Ministry of Education, Science and Technology in Kenya 🏅have feted Kennedy for his contributions to closing the technology skills gap for the undeserved talents in Africa.  
 
+Kennedy received his state award from the President of the Republic of Kenya, Uhuru Kenyatta
 
-- My bios and photos can be found on [**Kennedy Wangari's Media Press Kit**](https://drive.google.com/drive/folders/1aRmzvd4gwHbwlSXb1sEYfWW-cuyEjvHg?usp=sharing)
+- My bios and photos can be found on [**Kennedy Wangari's Media Press Kit**](https://drive.google.com/drive/folders/16DgrQUjFsRUIbLJY73I2a4tLfUQDkKtt?usp=drive_link)
 
-- To know more about my technical work and projects, please refer to my [**GitHub Profile**](https://github.com/kennedykwangari)
+- To learn more about my technical work and projects, please refer to my [**GitHub Profile**](https://github.com/kennedykwangari)
 
