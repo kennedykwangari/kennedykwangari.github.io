@@ -13,7 +13,7 @@ permalink: /projects/
 -   [**Kaggle Projects**](https://www.kaggle.com/kennedywangari13432)
 
     
-### Open Source Contributions to Data Science and Machine Learning Projects 📊
+### Open Source Contributions to Data/ AI Projects 📊
 
 
 -   [**Omdena AI**](https://omdena.com)
