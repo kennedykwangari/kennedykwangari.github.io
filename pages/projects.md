@@ -5,6 +5,11 @@ permalink: /projects/
 ---
 -   [**Github Projects**](https://github.com/kennedykwangari)
 
+<p align="center">
+  <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/projects.jpg">
+</p>
+
+
 -   [**Kaggle Projects**](https://www.kaggle.com/kennedywangari13432)
 
     
@@ -19,7 +24,6 @@ Developed and optimized an AI technology collaboratively with a team of 38 AI En
 <p align="center">
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/smoke.jpg">
 </p>
-
 
 
 b) [**Coronavirus: Understanding Policy Effects on Vulnerable Populations**](https://omdena.com/projects/ai-pandemics/)
