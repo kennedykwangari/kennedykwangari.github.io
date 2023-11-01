@@ -21,12 +21,14 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 **Selected list of Public Speaking Talks, Workshops, Conferences, and Presentations at large Technology/ Machine Learning/ Data Science Conferences, practical workshops, and meetups to share our knowledge, expertise and thoughts with the data science community**
 
+- [**The UNDP Data-driven policy and development in Africa borderlands**](https://www.undp.org/africa/africa-borderlands-centre/blog/data-driven-policy-and-development-africa-borderlands)
+
+
 - [**How to #BeADeepLearner- A live Ask Me Anything alongside Andrew Ng**](https://www.eventbrite.com/e/how-to-beadeeplearner-a-live-ask-me-anything-tickets-228151977707?aff=ebdsoporgprofile)
 
 <p align="center">
   <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/dli.jfif">
 </p>
-
 
 
 - [**NVIDIA GTC 2021:   A New Africa and a New World: The State and Future of African Developer Ecosystems**](https://www.nvidia.cn/on-demand/session/gtcspring21-e32500/?playlistId=playList-efd5379e-ca6f-4121-b375-37db43c0b3dd)
