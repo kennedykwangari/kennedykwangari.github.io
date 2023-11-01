@@ -8,7 +8,11 @@ Kennedy has been long concerned that AI is a missed opportunity for improving Af
 
 Promoting access to world-class AI education in Africa and Kenya has been his top priority agenda. He is a key advocate, and promoter of the **Sustainable Development Goal 4: promoting data science education for all.** 
 
+<br/>
 
+-   **The Deep Learning Indaba**
+    -   [**Sponsorship Committee Organizing Member**](https://deeplearningindaba.com/2022/indaba/organisers/): The Deep Learning Indaba Conference 2022, Tunis, Tunisia
+ 
 <br/>
 
 -   [**2019-2021: Deeplearning.AI Ambassador to Kenya**](https://www.deeplearning.ai/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/)
