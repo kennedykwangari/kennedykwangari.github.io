@@ -28,7 +28,7 @@ He shares his passion for a sustainable data-literate world through public speak
   <img width="750" height="640" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2021.jpg">
 </p>
 
-<br> -   [**Featured in the Daily Nation Newspaper (2021):**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
+<br> -   [**Featured in the Daily Nation Newspaper (2021) The Personality of the Week Segmemnt:**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
 
 <br/>
 
