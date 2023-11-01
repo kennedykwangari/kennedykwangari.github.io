@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks / Speaking
+title: Selected Talks and Speaking Engagements
 permalink: /Talks/
 ---
 
