@@ -15,15 +15,13 @@ Promoting access to world-class AI education in Africa and Kenya has been his to
  
 <br/>
 
--   [**2019-2021: Deeplearning.AI Ambassador to Kenya**](https://www.deeplearning.ai/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/)
+-   [**2019-2023: Deeplearning.AI Ambassador to Kenya**](https://www.deeplearning.ai/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/)
 
-    -   Negotiated and established significant AI developer communities’ partnerships, and collaborations with [**NVIDIA AI**](https://developer.nvidia.com/emerging-chapters), [**DataCamp Donates**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) and [**PACKT**](https://www.linkedin.com/posts/packt-publishing_datascience-data-packtexpertnetwork-activity-6803619378156883968-oaY1)
-    -   Availed [**1500+ training and educational data science scholarships**](https://www.linkedin.com/feed/update/urn:li:activity:6826017508902887424/) and career opportunities to develop new Kenyan AI talent.
-    -   Created synergy, mobilized support, and deepened working relationships with various global, and local Artificial Intelligence Hubs and developer ecosystems.
-    -   Actively building an all-inclusive home, and the largest network of data science mentors worldwide through the **#MentorKenyanDataScientists Programme**
-    -   Secured innovations funding grants for [**2 Graduate Research Scholars**](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/). 
-
-<br/>
+- Through Deeplearning.AI, Kennedy has excelled in promoting partnerships with educators and technology players such as Coursera, Datacamp, Dataquest, NVIDIA AI and Packt to increase educational and professional opportunities, participation and representation of the underserved communities in Africa.
+  
+- He has empowered over 7,691 black technology community members with free one-year data education scholarships from Coursera and Datacamp to improve their data literacy levels and advance for in-demand careers in the data field.
+  
+  <br/>
 
 -   **2018-2021: Technical Community Lead and Builder:** ([**AWS Academy Program**](https://aws.amazon.com/training/awsacademy/), + [**AWS Educate Cloud Ambassador**](https://aws.amazon.com/blogs/publicsector/aws-educate-announces-inaugural-student-ambassador-cohort/), + [**Udacity Bertlesmann Data Science**](https://mobile.twitter.com/kennedykwangari/status/1204121397024428033), + IndabaX Kenya + [**Google Developer Student Club of JKUAT**](https://twitter.com/dscjkuat/status/1204285957966630913).
 
