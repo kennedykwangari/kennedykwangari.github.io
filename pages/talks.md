@@ -113,7 +113,3 @@ I’m grateful for every opportunity to share my work. I can talk about:
 - **Pie & AI: Nairobi, Kenya: Deploying: AI Machine Learning in Production (04th April, 2020)**
 <p> <a href="https://www.youtube.com/watch?v=LNtQvnDxsew&t=4s">Click here to view the Video</a>.</p>
 
-
-
-
-**Note:** If you are interested to invite me as a Speaker for your event, please get in touch by dropping an email. If you are interested in having me submit a CFP first, that is absolutely fine! Please don’t hesitate to ask that.
