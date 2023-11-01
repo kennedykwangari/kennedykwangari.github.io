@@ -17,9 +17,13 @@ He leads a thriving and highly engaging [**Artificial Intelligence Community**](
 
 💥💥 Coursera, Deeplearning.AI, Oracle Africa, and the Ministry of Education, Science and Technology in Kenya 🏅have feted Kennedy for his contributions to closing the technology skills gap for the undeserved talents in Africa.  
 
-Kennedy received his state award from the President of the Republic of Kenya, Uhuru Kenyatta
+Copied!
+<p float="left">
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedystatehouse.jpg" width="45%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedystate2.jpg" width="45%" />
+</p>
 
-- My bios and photos can be found on [**Kennedy Wangari's Media Press Kit**](https://drive.google.com/drive/folders/16DgrQUjFsRUIbLJY73I2a4tLfUQDkKtt?usp=drive_link)
-
-- To learn more about my technical work and projects, please refer to my [**GitHub Profile**](https://github.com/kennedykwangari)
+<p align="center">
+ Kennedy receiving his award from the President of the Republic of Kenya: Uhuru Muigai Kenyatta CGH on 18/05/2022 at State House, Nairobi, Kenya
+</p>
 
