@@ -6,6 +6,9 @@ permalink: /Awards & Honors/
 
 **Selected Awards, Honors, and Recognitions for our contributions, work, and efforts in the Artificial Intelligence field**
 
+- [**Coursera Learner of the Year 2022:**](ai-and-learning-into-a-successful-career/) Feted by Coursera for being a stand-out voice in the Coursera global community of learners.
+
+  
 - [**Deeplearning.AI Ambassador of the Year 2020:**](https://www.deeplearning.ai/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/)  Recognized globally, and honored by 	[**Deeplearning.AI:**](https://www.deeplearning.ai/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/) as 1 of the 7 most accomplished and dedicated AI Community Leaders in 2020.
 
 <p align="center">
