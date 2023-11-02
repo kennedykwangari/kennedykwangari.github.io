@@ -4,7 +4,7 @@ title: Education
 permalink: /Education/
 ---
 
-## Education, Training, and Certifications 📚🧑‍🎓
+### Education, Training, and Certifications 📚🧑‍🎓
 
 - As a postgraduate student (**2023-2024**), pursuing **MSc. Artificial Intelligence** at **the University of Edinburgh**, his work aims to pave the way towards a better understanding of the societal and environmental impacts of AI models, datasets, and systems. 
 
