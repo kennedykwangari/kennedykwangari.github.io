@@ -4,7 +4,7 @@ title: Education
 permalink: /Education/
 ---
 
-## Education, Training, and Certifications
+## Education, Training, and Certifications 📚🧑‍🎓
 
 - As a postgraduate student (**2023-2024**), pursuing **MSc. Artificial Intelligence** at **the University of Edinburgh**, his work aims to pave the way towards a better understanding of the societal and environmental impacts of AI models, datasets, and systems. 
 
@@ -21,7 +21,7 @@ permalink: /Education/
 
 -   High School from [Starehe Boys' Centre and School](http://www.stareheboyscentre.ac.ke/sbc/) (SBC) (2012 - 2015)
 
--   Courses, Certifications and Training Relevant to my subjects of interest:
+-   Courses, Certifications, and Training Relevant to my subjects of interest:
 
     -   [Data Scientist with Python Track (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/cbf12c8a5894bbf0523a7ab4df72f0ae63275196)
     -   [Machine Learning Scientist with Python (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/cbea012a54c87b987dd613a655f0c88cd3e7b3d2)
