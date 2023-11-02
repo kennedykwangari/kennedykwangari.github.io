@@ -3,20 +3,25 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
+## Personal Data Projects 🚀📈
+
+
 -   [**Github Projects**](https://github.com/kennedykwangari)
 
 <p align="center">
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/projects.jpg">
 </p>
 
-
 -   [**Kaggle Projects**](https://www.kaggle.com/kennedywangari13432)
 
+
     
-### Open Source Contributions to Data/ AI Projects 📊
+### Open Source Contributions to Data/ AI Projects, and Frameworks 📊👨🏻‍💻
 
-
+### Omdena AI
 -   [**Omdena AI**](https://omdena.com)
+
  
 a) [**Using Artificial Intelligence to stop Forest Fires through flame and smoke detection**](https://omdena.com/blog/stop-wildfires/)
 	
@@ -37,6 +42,7 @@ A team of [**28 AI Experts and Data Scientists**](https://omdena.com/blog/artifi
   <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/data.jpg">
 </p>
 
+### NLP for Kenyan Languages: Masakhane Community
 
 -   [**Masakhane- A living collection of NLP projects for Africans, by Africans**](https://www.masakhane.io)
 
