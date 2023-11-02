@@ -8,7 +8,7 @@ permalink: /Journalism/
 
 He is on a mission to educate, inform, and entertain Africa about emerging technologies, trends, and developments in ways that inspire innovation.
 
-He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio, and Newspapers.
+He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals, and through various media outlets: Mainstream Television, Radio, and Newspapers.
 
 ## Print Media Data Journalism
 
@@ -48,6 +48,9 @@ He shares his passion for a sustainable data-literate world through public speak
 
 - **KBC Channel 1 ❙❙ The Good Morning Kenya Show:  Big Tech Firms Accountability in Africa**
 <p> <a href="https://www.youtube.com/watch?v=k4DbccWeNns">Click here to watch the video</a>.</p>
+
+- **KBC Channel 1 ❙❙ KBC Channel 1 |The Business Check Show with O'Brien Kimani II The Future of Work: Reinventing Productivity with AI**
+<p> <a href="https://www.youtube.com/watch?v=3F_MWk3e9ws">Click here to watch the video</a>.</p>
 
 - **KBC Channel 1 ❙❙ Take On Tech Show ❙❙ Exploring The World of Artificial Intelligence**
 <p> <a href="https://www.youtube.com/watch?v=n1sSXvAMI4c">Click here to watch the video</a>.</p>
