@@ -36,10 +36,36 @@ He shares his passion for a sustainable data-literate world through public speak
 
 ## Mainstream Media Interviews on Television and Radio
 
--   [**#NTV AMLIVE Show: Safeguarding The Digital Space:**](https://youtu.be/Dsxx1_0MJeM)
+- **NTV ❙❙ The AMLIVE Show: Safeguarding The Digital Space:**
+<p> <a href="https://youtu.be/Dsxx1_0MJeM">Click here to view the Video</a>.</p>
+
+- **K24TV LIVE ❙❙ Tech and Trends with Mungala Mbuvi #K24ThisMorning: Reinventing Productivity with Artificial Intelligence**
+<p> <a href="https://www.youtube.com/watch?v=bDqB-weE1n0">Click here to View the Video</a>.</p>
 
 
--   [**K24 TV LIVE | Tech and trends with Mungala Mbuvi #K24ThisMorning: Reinventing Productivity with Artificial Intelligence**](https://www.youtube.com/watch?v=bDqB-weE1n0)
+
+
+
+- **Pie & AI: Nairobi, Kenya: The Full Stack Data Scientist: Myth, Unicorn or New Normal? (17th November, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=bGzF2oi-veE">Click here to view the Video</a>.</p>
+
+- **Pie & AI: Nairobi, Kenya: The Full Stack Data Scientist: Myth, Unicorn or New Normal? (17th November, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=bGzF2oi-veE">Click here to view the Video</a>.</p>
+
+
+- **Pie & AI: Nairobi, Kenya: The Full Stack Data Scientist: Myth, Unicorn or New Normal? (17th November, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=bGzF2oi-veE">Click here to view the Video</a>.</p>
+
+
+
+- **Pie & AI: Nairobi, Kenya: The Full Stack Data Scientist: Myth, Unicorn or New Normal? (17th November, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=bGzF2oi-veE">Click here to view the Video</a>.</p>
+
+
+
+- **Pie & AI: Nairobi, Kenya: The Full Stack Data Scientist: Myth, Unicorn or New Normal? (17th November, 2020)**
+<p> <a href="https://www.youtube.com/watch?v=bGzF2oi-veE">Click here to view the Video</a>.</p>
+
 
 
 
