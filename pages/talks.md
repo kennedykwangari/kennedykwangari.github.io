@@ -10,7 +10,7 @@ Kennedy has delivered numerous keynote sessions, workshops, presentations, and t
   <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/undp.jpg">
 </p>
 
-### Areas of Specialization and Interests 📊🤖
+#### Areas of Specialization and Interests 📊🤖
 
 I’m grateful for every opportunity to share my work. I can talk about:
 
@@ -19,7 +19,7 @@ I’m grateful for every opportunity to share my work. I can talk about:
 3.	Data product management
 4.	Time Series Forecasting
 
-### Selected Public Speaking, Talks, Workshops, Meetups and Conferences ⚡🧠
+#### Selected Public Speaking, Talks, Workshops, Meetups and Conferences ⚡🧠
 
 
 - [**The UNDP Data-driven policy and development in Africa borderlands**](https://www.undp.org/africa/africa-borderlands-centre/blog/data-driven-policy-and-development-africa-borderlands)
