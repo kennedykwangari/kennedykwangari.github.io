@@ -46,10 +46,8 @@ He shares his passion for a sustainable data-literate world through public speak
 - **K24TV LIVE ❙❙ Tech and Trends with Mungala Mbuvi #K24ThisMorning: Reinventing Productivity with Artificial Intelligence**
 <p> <a href="https://www.youtube.com/watch?v=bDqB-weE1n0">Click here to watch the video</a>.</p>
 
-
 - **KBC Channel 1 ❙❙ The Good Morning Kenya Show:  Big Tech Firms Accountability in Africa**
-  <p> <a href="https://www.youtube.com/watch?v=k4DbccWeNns">Click here to watch the video</a>.</p>
-
+<p> <a href="https://www.youtube.com/watch?v=k4DbccWeNns">Click here to watch the video</a>.</p>
 
 - **KBC Channel 1 ❙❙ Take On Tech Show ❙❙ Exploring The World of Artificial Intelligence**
 <p> <a href="https://www.youtube.com/watch?v=n1sSXvAMI4c">Click here to watch the video</a>.</p>
