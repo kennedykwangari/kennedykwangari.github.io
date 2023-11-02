@@ -55,10 +55,6 @@ He shares his passion for a sustainable data-literate world through public speak
 <p> <a href="https://www.youtube.com/watch?v=k4DbccWeNns">Click here to watch the video</a>.</p>
 
 
-- **KBC Channel 1 ❙❙ The Good Morning Kenya Show:  Big Tech Firms Accountability in Africa**
-<p> <a href="https://www.youtube.com/watch?v=k4DbccWeNns">Click here to watch the video</a>.</p>
-
-
 - **KBC Channel 1 ❙❙ KBC Channel 1 |The Business Check Show with O'Brien Kimani II The Future of Work: Reinventing Productivity with AI**
 <p> <a href="https://www.youtube.com/watch?v=3F_MWk3e9ws">Click here to watch the video</a>.</p>
 
