@@ -45,26 +45,15 @@ He shares his passion for a sustainable data-literate world through public speak
 
 
 - **KBC Channel 1 ❙❙ The Good Morning Kenya Show:  Big Tech Firms Accountability in Africa**
-<p> <a href="https://www.youtube.com/watch?v=k4DbccWeNns">Click here to view the Video</a>.</p>
-
-
-- **KTN Business Today Show ❙❙ Silicon Savannah: Tapping the potential of Kenya’s Technology Hub**
-<p> <a href="https://www.youtube.com/watch?v=bGzF2oi-veE">Click here to view the Video</a>.</p>
+  <p> <a href="https://www.youtube.com/watch?v=k4DbccWeNns">Click here to View the Video</a>.</p>
 
 
 - **KBC Channel 1 ❙❙ Take On Tech Show ❙❙ Exploring The World of Artificial Intelligence**
 <p> <a href="https://www.youtube.com/watch?v=n1sSXvAMI4c">Click here to view the Video</a>.</p>
 
 
-
-- **Pie & AI: Nairobi, Kenya: The Full Stack Data Scientist: Myth, Unicorn or New Normal? (17th November, 2020)**
+- **KTN Business Today Show ❙❙ Silicon Savannah: Tapping the Potential of Kenya’s Technology Hub**
 <p> <a href="https://www.youtube.com/watch?v=bGzF2oi-veE">Click here to view the Video</a>.</p>
-
-
-
-- **Pie & AI: Nairobi, Kenya: The Full Stack Data Scientist: Myth, Unicorn or New Normal? (17th November, 2020)**
-<p> <a href="https://www.youtube.com/watch?v=bGzF2oi-veE">Click here to view the Video</a>.</p>
-
 
 
 
