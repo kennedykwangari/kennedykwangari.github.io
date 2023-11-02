@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Leadership
-permalink: /Leadership & Honors/
+permalink: /Leadership/
 ---
+
+## Global Assignments and Leadership
 
 As a self-taught data scientist from a minority under-represented group in the Global South, Kennedy empathetically understands how daunting it can be for an underserved youth to seek education and employability in Kenya. He believes that education is one of the most important ways for us to help remove the barriers to diversity and inclusion in the data field.
 
