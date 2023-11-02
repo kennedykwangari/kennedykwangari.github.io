@@ -10,6 +10,8 @@ He is on a mission to educate, inform, and entertain Africa about emerging techn
 
 He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio, and Newspapers.
 
+## Print Media Data Journalism
+
 -   [**Access our Muck Rack Portfolio Platform:**](https://muckrack.com/kennedykwangari)
   
 
@@ -29,6 +31,9 @@ He shares his passion for a sustainable data-literate world through public speak
 </p>
 
 <br> -   [**Featured in the Daily Nation Newspaper (2021) The Personality of the Week Segmemnt:**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
+
+
+## Mainstream Media Interviews on Television and Radio
 
 <br/>
 
