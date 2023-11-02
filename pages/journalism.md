@@ -37,19 +37,26 @@ He shares his passion for a sustainable data-literate world through public speak
 ## Mainstream Media Interviews on Television and Radio
 
 - **NTV ❙❙ The AMLIVE Show: Safeguarding The Digital Space:**
-<p> <a href="https://youtu.be/Dsxx1_0MJeM">Click here to view the Video</a>.</p>
+<p> <a href="https://youtu.be/Dsxx1_0MJeM">Click here to watch the video</a>.</p>
 
 
 - **K24TV LIVE ❙❙ Tech and Trends with Mungala Mbuvi #K24ThisMorning: Reinventing Productivity with Artificial Intelligence**
-<p> <a href="https://www.youtube.com/watch?v=bDqB-weE1n0">Click here to View the Video</a>.</p>
+<p> <a href="https://www.youtube.com/watch?v=bDqB-weE1n0">Click here to watch the video</a>.</p>
 
 
 - **KBC Channel 1 ❙❙ The Good Morning Kenya Show:  Big Tech Firms Accountability in Africa**
-  <p> <a href="https://www.youtube.com/watch?v=k4DbccWeNns">Click here to View the Video</a>.</p>
+  <p> <a href="https://www.youtube.com/watch?v=k4DbccWeNns">Click here to watch the video</a>.</p>
 
 
 - **KBC Channel 1 ❙❙ Take On Tech Show ❙❙ Exploring The World of Artificial Intelligence**
-<p> <a href="https://www.youtube.com/watch?v=n1sSXvAMI4c">Click here to view the Video</a>.</p>
+<p> <a href="https://www.youtube.com/watch?v=n1sSXvAMI4c">Click here to watch the video</a>.</p>
+
+- **KBC Channel 1 ❙❙ Take On Tech Show ❙❙ Combating Fake News Online Project Showcase**
+<p> <a href="https://www.youtube.com/watch?v=Xo56F6A0MSY&ab_channel=KBCChannel1TVShows">Click here to watch the video</a>.</p>
+
+
+
+
 
 
 - **KTN Business Today Show ❙❙ Silicon Savannah: Tapping the Potential of Kenya’s Technology Hub**
