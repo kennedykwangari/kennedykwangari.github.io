@@ -36,6 +36,9 @@ He shares his passion for a sustainable data-literate world through public speak
 
 ## Media Interviews on Television and Radio
 
+  <p align="center">
+  <img width="500" height="400" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/kennedyradio.jpg">
+</p>
 
 - **NTV ❙❙ The AMLIVE Show: Safeguarding The Digital Space:**
 <p> <a href="https://youtu.be/Dsxx1_0MJeM">Click here to watch the video</a>.</p>
