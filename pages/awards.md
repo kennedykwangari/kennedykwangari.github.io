@@ -4,7 +4,7 @@ title: Awards
 permalink: /Awards and Honors/
 ---
 
-**Selected Awards, Honors, and Recognitions for our Contributions, Work, and Efforts in the Data and Artificial Intelligence Industry**
+## Selected Awards, Honors, and Recognitions
 
 - [**Coursera Learner of the Year 2022:**](ai-and-learning-into-a-successful-career/) Feted by Coursera for being a stand-out voice in the Coursera global community of learners.
 
