@@ -34,7 +34,7 @@ He shares his passion for a sustainable data-literate world through public speak
 
 <br/>
 
-## Mainstream Media Interviews on Television and Radio
+## Media Interviews on Television and Radio
 
 - **NTV ❙❙ The AMLIVE Show: Safeguarding The Digital Space:**
 <p> <a href="https://youtu.be/Dsxx1_0MJeM">Click here to watch the video</a>.</p>
