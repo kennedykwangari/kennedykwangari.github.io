@@ -58,5 +58,12 @@ He shares his passion for a sustainable data-literate world through public speak
 - **TV47 ❙❙ The Debut of the Disruptive Friday’s Tech Show**
 <p> <a href="https://www.youtube.com/watch?v=Kk6EHCZE-vo&ab_channel=TV47Kenya">Click here to watch the video</a>.</p>
 
+- **KUTV Kenya Prime Time News: The Future of Work: Reinventing Productivity with AI**
+<p> <a href="https://www.youtube.com/watch?v=d2bmHJOB6dg">Click here to watch the video</a>.</p>
+
+
+
+
+
 
 
