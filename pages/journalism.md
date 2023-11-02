@@ -32,10 +32,21 @@ He shares his passion for a sustainable data-literate world through public speak
 
 <br> -   [**Featured in the Daily Nation Newspaper (2021) The Personality of the Week Segmemnt:**](https://nation.africa/kenya/life-and-style/mynetwork/the-time-to-prepare-for-the-dangers-of-ai-is-now--3264594?fbclid=IwAR1gqlDOwUQad2gQbkVZS7rI9xYkiCcZO6z38eLswj_nvqGXrvQTy0lOz50)
 
+<br/>
 
 ## Mainstream Media Interviews on Television and Radio
 
-<br/>
+-   [**#NTV AMLIVE Show: Safeguarding The Digital Space:**](https://youtu.be/Dsxx1_0MJeM)
+
+
+-   [**K24 TV LIVE | Tech and trends with Mungala Mbuvi #K24ThisMorning: Reinventing Productivity with Artificial Intelligence**](https://www.youtube.com/watch?v=bDqB-weE1n0)
+
+
+
+
+
+
+
 
 
 
