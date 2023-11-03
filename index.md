@@ -9,7 +9,7 @@
 🧭 Previously, he has worked at UNEP, NVIDIA, Xetova, and NCBA Bank to deliver high-impact data products and services –from data strategy consulting to end-to-end project implementation across the marketing, supply chain, finance, and environment fields.
 
 <p align="center">
-  <img width="600" height="500" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyunhabitat.jpg">
+  <img width="800" height="700" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyunhabitat.jpg">
 </p>
 
 <p align="center">
