@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## Personal Data Projects 🚀📈
+### Personal Data Projects 🚀📈
 
 
 -   [**Github Projects**](https://github.com/kennedykwangari)
