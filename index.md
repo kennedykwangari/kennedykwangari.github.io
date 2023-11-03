@@ -8,9 +8,11 @@
 
 🧭 Previously, he has worked at UNEP, NVIDIA, Xetova, and NCBA Bank to deliver high-impact data products and services –from data strategy consulting to end-to-end project implementation across the marketing, supply chain, finance, and environment fields.
 
-<p align="center">
-  <img width="800" height="700" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyunhabitat.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyunhabitat.jpg">
+      </figure>
+</center>
 
 <p align="center">
  (The Permanent Mission of Kenya to the UN-Habitat Team: (Onset: Cabinet Secretary for Lands, Public Works, Housing and Urban Development Zachariah Njeru and Ambassador Jean Kimani))
