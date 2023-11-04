@@ -21,6 +21,7 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 #### Selected Public Speaking, Talks, Workshops, Meetups and Conferences ⚡🧠
 
+### 2023
 
 - [**Women In Data: The Data Journey Nairobi Summit**](https://twitter.com/womenindataorg/status/1674713197482213377?t=7N0g9mX5Q73vhKFizMk2GA&s=19)
 
@@ -31,6 +32,7 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**The UNDP Data-driven policy and development in Africa borderlands**](https://www.undp.org/africa/africa-borderlands-centre/blog/data-driven-policy-and-development-africa-borderlands)
 
+### 2022
 
 - [**Amref Annual Technical Review Meeting 2022:**](https://twitter.com/Amref_Kenya/status/1585105307185082368?t=eTx6oJIy8fR12NU2qmik0Q&s=19)
 
@@ -44,6 +46,8 @@ I’m grateful for every opportunity to share my work. I can talk about:
   <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyjenga.jpg">
 </p>
 
+
+### 2021
 
 - [**How to #BeADeepLearner- A live Ask Me Anything alongside Andrew Ng**](https://www.eventbrite.com/e/how-to-beadeeplearner-a-live-ask-me-anything-tickets-228151977707?aff=ebdsoporgprofile)
 
@@ -62,6 +66,7 @@ I’m grateful for every opportunity to share my work. I can talk about:
  - **Deeplearning.AI:  Breaking into AI: I took an Online Course, What’s Next?**
 <p> <a href="https://www.youtube.com/watch?v=QSLh7CUEfXA">Click here to view the Video</a>.</p>
 
+### 2020
 
 - **Scorpio: Interview with ConfluxAI Data Scientist- Kennedy Wangari**
 <p> <a href="https://www.youtube.com/watch?v=DsYCAUrxutc">Click here to view the Video</a>.</p>
