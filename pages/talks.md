@@ -29,8 +29,10 @@ I’m grateful for every opportunity to share my work. I can talk about:
   <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedynairobi.jpg">
 </p>
 
+- [**Data Science Dojo Webinar: Fullstack Machine Learning: A Data Scientist’s  Roadmap Guide**](https://twitter.com/DataScienceDojo/status/1676654430668595201?t=eObnAZp92Ua_-oXxl-ixMA&s=19)
 
 - [**The UNDP Data-driven policy and development in Africa borderlands**](https://www.undp.org/africa/africa-borderlands-centre/blog/data-driven-policy-and-development-africa-borderlands)
+
 
 ### 2022
 
