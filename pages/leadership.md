@@ -3,14 +3,6 @@ layout: page
 title: Leadership
 permalink: /Leadership/
 ---
-
-<p float="right">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="33%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="33%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhabitat3.jpg" width="33%" />
-</p>
-
-
 ## Global Assignments and Leadership
 
 <p align="center">
@@ -23,17 +15,6 @@ As a self-taught data scientist from a minority under-represented group in the G
 <br/>
 
 -   **The Deep Learning Indaba**
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="33%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/images/ghana2.jpg" width="33%" />
-</p>
-
-<p align="center">
-Interacting with Jeff Dean at the 5th Deep Learning Indaba Conference, Accra, Ghana
-</p>
-
-
 -   [**Sponsorship Committee Organizing Member**](https://deeplearningindaba.com/2022/indaba/organisers/): The Deep Learning Indaba Conference 2022, Tunis, Tunisia
  
 <br/>
