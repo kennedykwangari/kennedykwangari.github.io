@@ -13,6 +13,17 @@ As a self-taught data scientist from a minority under-represented group in the G
  
 <br/>
 
+-   [**UN-Habitat: Session Co-Moderator: and Youth Member to the Kenya Permanent Mission to the UN-Habitat**](https://deeplearningindaba.com/2022/indaba/organisers/) 
+
+ <p float="right">
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="45%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="45%" />
+</p>
+
+
+<br/>
+
+
 - [**Data Science Nigeria Hackathon Solutions Reviewer:**](https://drive.google.com/file/d/14CM-g9TzLwccVbohp9ZUV1_EFaryKIi2/view): Mobility and Geospatial Data for Health Solutions in Africa Hackathon
 
 <br/>
