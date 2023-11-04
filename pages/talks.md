@@ -36,6 +36,13 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 ### 2022
 
+- [**How to Build a Real-World AI Project Portfolio:**](https://www.youtube.com/live/ctpl3PMU-B4?si=zBoY2-d5SFufz_tP)
+
+<p align="center">
+  <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedydli2022.jpg">
+</p>
+
+
 - [**Amref Annual Technical Review Meeting 2022:**](https://twitter.com/Amref_Kenya/status/1585105307185082368?t=eTx6oJIy8fR12NU2qmik0Q&s=19)
 
 <p align="center">
