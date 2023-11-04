@@ -7,6 +7,14 @@ permalink: /Leadership/
 ## Global Assignments and Leadership
 
 <p float="left">
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="33%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="33%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhabitat3.jpg" width="33%" />
+</p>
+
+
+
+<p float="left">
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="35%" />
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="35%" />
 </p>
