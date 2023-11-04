@@ -4,16 +4,6 @@ title: Talks
 permalink: /Talks/
 ---
 
-
-<p float="right">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="33%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="33%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhabitat3.jpg" width="33%" />
-</p>
-
-
-
-
 Kennedy has delivered numerous keynote sessions, workshops, presentations, and talks at local and global technology, data, and artificial intelligence conferences. From presenting his work from UNEP at the 22nd Scipy Conference 2023 in Austin, Texas, to the 4th UN Data Forum 2023 in China, the UNDP Africa Borderlands Data Forum 2023, the Mozilla Festival House Kenya 2023, Deeplearning.AI monthly webinars, the ALX Africa Nairobi Karibu Ceremony, the NVIDIA GTC 2021 Conf, the Deep Learning Indaba and in many other forums.
 
 <p align="center">
@@ -32,16 +22,6 @@ I’m grateful for every opportunity to share my work. I can talk about:
 #### Selected Public Speaking, Talks, Workshops, Meetups and Conferences ⚡🧠
 
 ### 2023
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="33%" />
-   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana2.jpg" width="33%" />
-  </p>
-
-<p align="center">
-Interacting with Jeff Dean at the 5th Deep Learning Indaba Conference, Accra, Ghana
-</p>
-
 
 - [**Women In Data: The Data Journey Nairobi Summit**](https://twitter.com/womenindataorg/status/1674713197482213377?t=7N0g9mX5Q73vhKFizMk2GA&s=19)
 
