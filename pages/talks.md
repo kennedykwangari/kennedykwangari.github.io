@@ -31,6 +31,10 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**Data Science Dojo Webinar: Fullstack Machine Learning: A Data Scientist’s  Roadmap Guide**](https://twitter.com/DataScienceDojo/status/1676654430668595201?t=eObnAZp92Ua_-oXxl-ixMA&s=19)
 
+- [**Azubi Africa: Building a Career in Data Science and Analytics**](https://twitter.com/AzubiAfrica/status/1651156723468496907?t=0EwB9XeRjepdXSLMxn1_mQ&s=19)
+
+
+
 - [**The UNDP Data-driven policy and development in Africa borderlands**](https://www.undp.org/africa/africa-borderlands-centre/blog/data-driven-policy-and-development-africa-borderlands)
 
 <p align="center">
