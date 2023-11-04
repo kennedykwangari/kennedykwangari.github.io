@@ -4,6 +4,16 @@ title: Talks
 permalink: /Talks/
 ---
 
+
+<p float="right">
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="33%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="33%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhabitat3.jpg" width="33%" />
+</p>
+
+
+
+
 Kennedy has delivered numerous keynote sessions, workshops, presentations, and talks at local and global technology, data, and artificial intelligence conferences. From presenting his work from UNEP at the 22nd Scipy Conference 2023 in Austin, Texas, to the 4th UN Data Forum 2023 in China, the UNDP Africa Borderlands Data Forum 2023, the Mozilla Festival House Kenya 2023, Deeplearning.AI monthly webinars, the ALX Africa Nairobi Karibu Ceremony, the NVIDIA GTC 2021 Conf, the Deep Learning Indaba and in many other forums.
 
 <p align="center">
