@@ -21,9 +21,21 @@ As a self-taught data scientist from a minority under-represented group in the G
 <br/>
 
 -   **The Deep Learning Indaba**
-    -   [**Sponsorship Committee Organizing Member**](https://deeplearningindaba.com/2022/indaba/organisers/): The Deep Learning Indaba Conference 2022, Tunis, Tunisia
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="45%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana2.jpg" width="45%" />
+</p>
+
+<p align="center">
+Interacting with Jeff Dean at the 5th Deep Learning Indaba Conference, Accra, Ghana
+</p>
+
+
+-   [**Sponsorship Committee Organizing Member**](https://deeplearningindaba.com/2022/indaba/organisers/): The Deep Learning Indaba Conference 2022, Tunis, Tunisia
  
 <br/>
+
 
 -   [**2019-2023: Deeplearning.AI Ambassador to Kenya**](https://www.deeplearning.ai/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/)
 
