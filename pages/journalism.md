@@ -8,6 +8,13 @@ permalink: /Journalism/
 
 He is on a mission to educate, inform, and entertain Africa about emerging technologies, trends, and developments in ways that inspire innovation.
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/newspaper.jpg">
+      </figure>
+</center>
+
+
 He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals, and through various media outlets: Mainstream Television, Radio, and Newspapers.
 
 ## Print Media Data Journalism
