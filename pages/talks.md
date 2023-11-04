@@ -39,6 +39,13 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**Azubi Africa: Opportunities ❙ Demand and Career Growth Opportunities in Data**](https://twitter.com/AzubiAfrica/status/1676181044058357762?t=Y4hZewdK-2Qwq5PTaED16w&s=19)
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedykwangari11.png">
+      </figure>
+</center>
+
+
 - [**Data Science East Africa Ultimate Python Meetup:**](https://twitter.com/DSEAfrica/status/1534088867422384128?t=fcMhCt88mLkxTRvL7FRrqQ&s=19)
   
 - [**DSEA Meetup: Leverage Python to Understand and Build Machine Learning, Artificial Intelligence and MLOPs Projects**](https://twitter.com/DSEAfrica/status/1539263687453712384?t=QKZbylNe6VmWasrUiaodvw&s=19)
@@ -73,7 +80,6 @@ I’m grateful for every opportunity to share my work. I can talk about:
     <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyamref.jpg">
       </figure>
 </center>
-
 
 
 - [**JENGA School Open Day: Envision A Technology Africa**](https://twitter.com/JENGASchool/status/1547980414647558144?t=H2-WIXRqRAXCqm_Ji6h4TQ&s=19)
