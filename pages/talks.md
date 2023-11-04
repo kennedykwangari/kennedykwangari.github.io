@@ -70,18 +70,23 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**JENGA School Open Day: Envision A Technology Africa**](https://twitter.com/JENGASchool/status/1547980414647558144?t=H2-WIXRqRAXCqm_Ji6h4TQ&s=19)
 
-<p align="center">
-  <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyjenga.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyjenga.jpg">
+      </figure>
+</center>
 
 
 ### 2021
 
 - [**How to #BeADeepLearner- A live Ask Me Anything alongside Andrew Ng**](https://www.eventbrite.com/e/how-to-beadeeplearner-a-live-ask-me-anything-tickets-228151977707?aff=ebdsoporgprofile)
 
-<p align="center">
-  <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/dli.jfif">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/dli.jfif">
+      </figure>
+</center>
+
 
 
 - [**NVIDIA GTC 2021:   A New Africa and a New World: The State and Future of African Developer Ecosystems**](https://www.nvidia.cn/on-demand/session/gtcspring21-e32500/?playlistId=playList-efd5379e-ca6f-4121-b375-37db43c0b3dd)
