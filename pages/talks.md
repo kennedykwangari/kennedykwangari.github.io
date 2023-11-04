@@ -25,6 +25,14 @@ I’m grateful for every opportunity to share my work. I can talk about:
 - [**The UNDP Data-driven policy and development in Africa borderlands**](https://www.undp.org/africa/africa-borderlands-centre/blog/data-driven-policy-and-development-africa-borderlands)
 
 
+- [**Amref Annual Technical Review Meeting 2022:**](https://twitter.com/Amref_Kenya/status/1585105307185082368?t=eTx6oJIy8fR12NU2qmik0Q&s=19)
+
+<p align="center">
+  <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyamref.jpg">
+</p>
+
+
+
 - [**How to #BeADeepLearner- A live Ask Me Anything alongside Andrew Ng**](https://www.eventbrite.com/e/how-to-beadeeplearner-a-live-ask-me-anything-tickets-228151977707?aff=ebdsoporgprofile)
 
 <p align="center">
