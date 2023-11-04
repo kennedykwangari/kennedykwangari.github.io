@@ -27,13 +27,6 @@ As a self-taught data scientist from a minority under-represented group in the G
 <p float="left">
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="33%" />
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/images/ghana2.jpg" width="33%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhabitat3.jpg" width="33%" />
-</p>
-
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="35%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana2.jpg" width="35%" />
 </p>
 
 <p align="center">
