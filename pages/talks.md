@@ -31,6 +31,11 @@ I’m grateful for every opportunity to share my work. I can talk about:
   <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyamref.jpg">
 </p>
 
+- [**JENGA School Open Day: Envision A Technology Africa**](https://twitter.com/JENGASchool/status/1547980414647558144?t=H2-WIXRqRAXCqm_Ji6h4TQ&s=19)
+
+<p align="center">
+  <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyjenga.jpg">
+</p>
 
 
 - [**How to #BeADeepLearner- A live Ask Me Anything alongside Andrew Ng**](https://www.eventbrite.com/e/how-to-beadeeplearner-a-live-ask-me-anything-tickets-228151977707?aff=ebdsoporgprofile)
