@@ -19,7 +19,7 @@ permalink: /projects/
 
 
     
-### Open Source Contributions to Data/ AI Projects, and Frameworks 📊👨🏻‍💻
+### Open Source Contributions to Data/ AI Projects 📊👨🏻‍💻
 
 ### Omdena AI
 -   [**Omdena AI**](https://omdena.com)
