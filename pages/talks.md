@@ -35,13 +35,14 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**Data Science Dojo Webinar: Fullstack Machine Learning: A Data Scientist’s  Roadmap Guide**](https://twitter.com/DataScienceDojo/status/1676654430668595201?t=eObnAZp92Ua_-oXxl-ixMA&s=19)
 
+
 - [**Azubi Africa: Building a Career in Data Science and Analytics**](https://twitter.com/AzubiAfrica/status/1651156723468496907?t=0EwB9XeRjepdXSLMxn1_mQ&s=19)
 
 - [**Azubi Africa: Opportunities ❙ Demand and Career Growth Opportunities in Data**](https://twitter.com/AzubiAfrica/status/1676181044058357762?t=Y4hZewdK-2Qwq5PTaED16w&s=19)
 
 <center>
   <figure>
-    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedykwangari11.png">
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/alxkaribu.jpg">
       </figure>
 </center>
 
@@ -153,11 +154,14 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 [**Deeplearning.AI Nairobi: Formulating your Career Path in Data Science (1st February 2021)**](https://www.deeplearning.ai/event/pie-ai-juja/)
 
-&nbsp;
-<p align="center">
-  <img width="540" height="420" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangarinairobi.jpeg">
-</p>
-&nbsp;
+
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedykwangari11.png">
+      </figure>
+</center>
+
+
 
 - [**Mastering Data Science Interviews Loop: AI Ghana (1st May, 2021)**](https://twitter.com/AIGhana1/status/1386966310601609216)
 
