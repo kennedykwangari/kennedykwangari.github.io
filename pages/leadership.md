@@ -7,8 +7,8 @@ permalink: /Leadership/
 ## Global Assignments and Leadership
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="45%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="45%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="40%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="40%" />
 </p>
 
 <p align="center">
@@ -23,8 +23,8 @@ As a self-taught data scientist from a minority under-represented group in the G
 -   **The Deep Learning Indaba**
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="45%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana2.jpg" width="45%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="40%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana2.jpg" width="40%" />
 </p>
 
 <p align="center">
