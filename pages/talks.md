@@ -85,6 +85,15 @@ I’m grateful for every opportunity to share my work. I can talk about:
 </center>
 
 
+- [**Women In Data: The Data Journey Nairobi Summit**](https://twitter.com/womenindataorg/status/1674713197482213377?t=7N0g9mX5Q73vhKFizMk2GA&s=19)
+
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/omdena.jpg">
+      </figure>
+</center>
+
+
 ### 2021
 
 - [**How to #BeADeepLearner- A live Ask Me Anything alongside Andrew Ng**](https://www.eventbrite.com/e/how-to-beadeeplearner-a-live-ask-me-anything-tickets-228151977707?aff=ebdsoporgprofile)
