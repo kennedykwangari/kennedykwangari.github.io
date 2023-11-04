@@ -33,6 +33,16 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 ### 2023
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="33%" />
+   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana2.jpg" width="33%" />
+  </p>
+
+<p align="center">
+Interacting with Jeff Dean at the 5th Deep Learning Indaba Conference, Accra, Ghana
+</p>
+
+
 - [**Women In Data: The Data Journey Nairobi Summit**](https://twitter.com/womenindataorg/status/1674713197482213377?t=7N0g9mX5Q73vhKFizMk2GA&s=19)
 
 <p align="center">
