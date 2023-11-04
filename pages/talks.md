@@ -85,7 +85,7 @@ I’m grateful for every opportunity to share my work. I can talk about:
 </center>
 
 
-- [**Women In Data: The Data Journey Nairobi Summit**](https://twitter.com/womenindataorg/status/1674713197482213377?t=7N0g9mX5Q73vhKFizMk2GA&s=19)
+- [**How to Get a Data Science Job in 2022 – Combining Theory and Real-World Projects to Stand Out**](https://twitter.com/womenindataorg/status/1674713197482213377?t=7N0g9mX5Q73vhKFizMk2GA&s=19)
 
 <center>
   <figure>
@@ -133,7 +133,7 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 
 
-- [**Omdena AI Webinar: Are Competitions enough to learn Data Science Skills Required to excel on the job?**](https://omdena.com/blog/data-science-skills-required/)
+- [**Omdena AI Webinar: Are Competitions Enough to learn Data Science Skills Required to Excel on the Job?**](https://omdena.com/blog/data-science-skills-required/)
 
 
 - [**International Webinar on Artificial Intelligence & Machine Learning: JSPM’s Jayawant Institute of Management Studies, Pune, India (03-05th June, 2020)**](https://www.facebook.com/jspmjims/posts/international-webinar-on-ai-machine-learning-jspms-jayawant-institute-of-managem/3307946485891445/)
@@ -145,7 +145,7 @@ I’m grateful for every opportunity to share my work. I can talk about:
  
 - [**Formulating your career Path in Data Science (1st February, 2021)**](https://medium.com/@grivineochieng/first-pie-ai-meetup-kenya-c6dd756929b1)
 
-[**Deeplearning.AI Nairobi: Formulating your career Path in Data Science (1st February, 2021)**](https://www.deeplearning.ai/event/pie-ai-juja/)
+[**Deeplearning.AI Nairobi: Formulating your Career Path in Data Science (1st February 2021)**](https://www.deeplearning.ai/event/pie-ai-juja/)
 
 &nbsp;
 <p align="center">
