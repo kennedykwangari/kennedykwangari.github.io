@@ -59,16 +59,22 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**How to Build a Real-World AI Project Portfolio:**](https://www.youtube.com/live/ctpl3PMU-B4?si=zBoY2-d5SFufz_tP)
 
-<p align="center">
-  <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedydli2022.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedydli2022.jpg">
+      </figure>
+</center>
 
 
 - [**Amref Annual Technical Review Meeting 2022:**](https://twitter.com/Amref_Kenya/status/1585105307185082368?t=eTx6oJIy8fR12NU2qmik0Q&s=19)
 
-<p align="center">
-  <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyamref.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyamref.jpg">
+      </figure>
+</center>
+
+
 
 - [**JENGA School Open Day: Envision A Technology Africa**](https://twitter.com/JENGASchool/status/1547980414647558144?t=H2-WIXRqRAXCqm_Ji6h4TQ&s=19)
 
