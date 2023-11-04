@@ -34,6 +34,11 @@ I’m grateful for every opportunity to share my work. I can talk about:
 - [**Azubi Africa: Building a Career in Data Science and Analytics**](https://twitter.com/AzubiAfrica/status/1651156723468496907?t=0EwB9XeRjepdXSLMxn1_mQ&s=19)
 
 
+- [**Data Science East Africa Ultimate Python Meetup:**](https://twitter.com/DSEAfrica/status/1534088867422384128?t=fcMhCt88mLkxTRvL7FRrqQ&s=19)
+
+
+- [**Data Science East Africa: Beyond the Hype Data Science Hands-On Meetup:**](https://twitter.com/LuxDevHQ/status/1637790023570292738?t=XIrN_7NNGBWr7P8_5XT9zQ&s=19)
+
 
 - [**The UNDP Data-driven policy and development in Africa borderlands**](https://www.undp.org/africa/africa-borderlands-centre/blog/data-driven-policy-and-development-africa-borderlands)
 
