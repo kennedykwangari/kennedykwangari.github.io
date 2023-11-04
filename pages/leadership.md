@@ -14,6 +14,9 @@ As a self-taught data scientist from a minority under-represented group in the G
  
 <br/>
 
+- [**Data Science Nigeria Hackathon Solutions Reviewer:**](https://drive.google.com/file/d/14CM-g9TzLwccVbohp9ZUV1_EFaryKIi2/view): Mobility and Geospatial Data for Health Solutions in Africa Hackathon
+
+<br/>
 
 -   [**2019-2023: Deeplearning.AI Ambassador to Kenya**](https://www.deeplearning.ai/breaking-into-ai-juggling-work-projects-and-personal-life-with-kennedy-wangari/)
 
