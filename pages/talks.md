@@ -46,9 +46,12 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**The UNDP Data-driven policy and development in Africa borderlands**](https://www.undp.org/africa/africa-borderlands-centre/blog/data-driven-policy-and-development-africa-borderlands)
 
-<p align="center">
-  <img width="600" height="540" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyborderlands.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedydata3.jpg">
+      </figure>
+</center>
+
 
 ### 2022
 
