@@ -9,8 +9,7 @@ As a self-taught data scientist from a minority under-represented group in the G
 
 <br/>
 
--   **The Deep Learning Indaba**
--   [**Sponsorship Committee Organizing Member**](https://deeplearningindaba.com/2022/indaba/organisers/): The Deep Learning Indaba Conference 2022, Tunis, Tunisia
+-   [**Sponsorship Committee Organizing Member**](https://deeplearningindaba.com/2022/indaba/organisers/): **The Deep Learning Indaba** Conference 2022, Tunis, Tunisia
  
 <br/>
 
