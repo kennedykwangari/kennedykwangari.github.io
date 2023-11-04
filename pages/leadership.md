@@ -19,7 +19,7 @@ As a self-taught data scientist from a minority under-represented group in the G
 
 <br/>
 
--   [**Volunteers Committee Member**](https://drive.google.com/file/d/1rJX8fPoQNONHLCGX9UdisNumYgk0gXxA/view): **The Deep Learning Indaba** Conference 2023, The University of Ghana, Accra, Ghana
+-   [**Volunteers Committee Member**](https://drive.google.com/file/d/1K2H_suKAgD2UbmOHBivF7b-gbk5nabyQ/view?usp=sharing): **The Deep Learning Indaba** Conference 2023, The University of Ghana, Accra, Ghana
   <br/>
   
 -   [**Sponsorship Committee Organizing Member**](https://deeplearningindaba.com/2022/indaba/organisers/): **The Deep Learning Indaba** Conference 2022, Tunis, Tunisia
