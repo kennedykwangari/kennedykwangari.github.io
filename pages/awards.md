@@ -6,7 +6,7 @@ permalink: /Awards and Honors/
 
 ## Selected Awards, Honors, and Recognitions
 
-- [**Coursera Learner of the Year 2022:**](ai-and-learning-into-a-successful-career/) Feted by Coursera for being a stand-out voice in the Coursera global community of learners.
+- [**Coursera Learner of the Year 2022:**](https://blog.coursera.org/by-embracing-three-key-mindsets-kennedy-channeled-his-passion-for-ai-and-learning-into-a-successful-career/) Feted by Coursera for being a stand-out voice in the Coursera global community of learners.
 
 <center>
   <figure>
