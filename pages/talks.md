@@ -94,8 +94,6 @@ I’m grateful for every opportunity to share my work. I can talk about:
 </center>
 
 
-### 2021
-
 - [**How to #BeADeepLearner- A live Ask Me Anything alongside Andrew Ng**](https://www.eventbrite.com/e/how-to-beadeeplearner-a-live-ask-me-anything-tickets-228151977707?aff=ebdsoporgprofile)
 
 <center>
@@ -103,6 +101,8 @@ I’m grateful for every opportunity to share my work. I can talk about:
     <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/dli.jfif">
       </figure>
 </center>
+
+### 2021
 
 - [**NVIDIA GTC 2021:   A New Africa and a New World: The State and Future of African Developer Ecosystems**](https://www.nvidia.cn/on-demand/session/gtcspring21-e32500/?playlistId=playList-efd5379e-ca6f-4121-b375-37db43c0b3dd)
 
