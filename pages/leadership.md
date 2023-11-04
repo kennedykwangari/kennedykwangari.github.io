@@ -4,8 +4,6 @@ title: Leadership
 permalink: /Leadership/
 ---
 
-## Global Assignments and Leadership
-
 <p float="left">
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="33%" />
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="33%" />
@@ -13,11 +11,7 @@ permalink: /Leadership/
 </p>
 
 
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="35%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="35%" />
-</p>
+## Global Assignments and Leadership
 
 <p align="center">
 Session Co-moderator at the 2nd UN-Habitat Assembly
@@ -29,6 +23,13 @@ As a self-taught data scientist from a minority under-represented group in the G
 <br/>
 
 -   **The Deep Learning Indaba**
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="33%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/images/ghana2.jpg" width="33%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhabitat3.jpg" width="33%" />
+</p>
+
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ghana1.jpg" width="35%" />
