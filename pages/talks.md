@@ -27,9 +27,11 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**Women In Data: The Data Journey Nairobi Summit**](https://twitter.com/womenindataorg/status/1674713197482213377?t=7N0g9mX5Q73vhKFizMk2GA&s=19)
 
-<p align="center">
-  <img width="570" height="470" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedynairobi.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedynairobi.jpg">
+      </figure>
+</center>
 
 - [**Data Science Dojo Webinar: Fullstack Machine Learning: A Data Scientist’s  Roadmap Guide**](https://twitter.com/DataScienceDojo/status/1676654430668595201?t=eObnAZp92Ua_-oXxl-ixMA&s=19)
 
@@ -87,13 +89,13 @@ I’m grateful for every opportunity to share my work. I can talk about:
       </figure>
 </center>
 
-
-
 - [**NVIDIA GTC 2021:   A New Africa and a New World: The State and Future of African Developer Ecosystems**](https://www.nvidia.cn/on-demand/session/gtcspring21-e32500/?playlistId=playList-efd5379e-ca6f-4121-b375-37db43c0b3dd)
 
-<p align="center">
-  <img width="540" height="450" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/nvidia.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/nvidia.jpg">
+      </figure>
+</center>
 
 
  - **Deeplearning.AI:  Breaking into AI: I took an Online Course, What’s Next?**
