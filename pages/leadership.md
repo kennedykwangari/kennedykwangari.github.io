@@ -26,8 +26,14 @@ As a self-taught data scientist from a minority under-represented group in the G
  
 <br/>
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/dliaccra.jpg">
+      </figure>
+</center>
 
-- [**Data Science Nigeria Hackathon Solutions Reviewer:**](https://drive.google.com/file/d/14CM-g9TzLwccVbohp9ZUV1_EFaryKIi2/view): Mobility and Geospatial Data for Health Solutions in Africa Hackathon
+
+- [**Data Science Nigeria ❙❙ Hackathon Solutions Reviewer:**](https://drive.google.com/file/d/14CM-g9TzLwccVbohp9ZUV1_EFaryKIi2/view): Mobility and Geospatial Data for Health Solutions in Africa Hackathon
 
 <br/>
 
