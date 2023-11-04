@@ -14,10 +14,12 @@ He shares his passion for a sustainable data-literate world through public speak
 
 -   [**Access our Muck Rack Portfolio Platform:**](https://muckrack.com/kennedykwangari)
   
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2022.jpg">
+      </figure>
+</center>
 
-  <p align="center">
-  <img width="750" height="600" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2022.jpg">
-</p>
 
 <br/>
 
@@ -26,9 +28,12 @@ He shares his passion for a sustainable data-literate world through public speak
 
 <br> -    [**Featured in the Daily Nation Newspaper (2023):**](https://nation.africa/resource/blob/4209762/73a0a7d1417e0fc14a5e953c14e409b6/weekly-review-34-data.pdf)
 
- <p align="center">
-  <img width="750" height="600" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2021.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangari2021.jpg">
+      </figure>
+</center>
+
 
 <br/>
 
@@ -38,9 +43,13 @@ He shares his passion for a sustainable data-literate world through public speak
 
 ## Media Interviews on Television and Radio
 
- <p align="center">
-  <img width="520" height="440" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyradio.jpg">
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyradio.jpg">
+      </figure>
+</center>
+
+
 
 - **NTV ❙❙ The AMLIVE Show: Safeguarding The Digital Space:**
 <p> <a href="https://youtu.be/Dsxx1_0MJeM">Click here to watch the video</a>.</p>
