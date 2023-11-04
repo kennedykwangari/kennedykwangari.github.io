@@ -41,7 +41,7 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**Data Science East Africa Ultimate Python Meetup:**](https://twitter.com/DSEAfrica/status/1534088867422384128?t=fcMhCt88mLkxTRvL7FRrqQ&s=19)
   
-- [**𝐃𝐒𝐄𝐀 𝐌𝐞𝐞𝐭𝐮𝐩: 𝗟𝗲𝘃𝗲𝗿𝗮𝗴𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝘁𝗼 𝐔𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗮𝗻𝗱 𝐁𝘂𝗶𝗹𝗱 𝐌𝗮𝗰𝗵𝗶𝗻𝗲 𝐋𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝐀𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝐈𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗠𝗟𝗢𝗽𝘀 𝐏𝗿𝗼𝗷𝗲𝗰𝘁𝘀**](https://twitter.com/DSEAfrica/status/1539263687453712384?t=QKZbylNe6VmWasrUiaodvw&s=19)
+- [**DSEA Meetup: Leverage Python to Understand and Build Machine Learning, Artificial Intelligence and MLOPs Projects**](https://twitter.com/DSEAfrica/status/1539263687453712384?t=QKZbylNe6VmWasrUiaodvw&s=19)
 
 - [**Data Science East Africa: Beyond the Hype Data Science Hands-On Meetup:**](https://twitter.com/LuxDevHQ/status/1637790023570292738?t=XIrN_7NNGBWr7P8_5XT9zQ&s=19)
 
