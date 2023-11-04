@@ -47,7 +47,6 @@ He shares his passion for a sustainable data-literate world through public speak
 <p float="right">
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="33%" />
   <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="33%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhabitat3.jpg" width="33%" />
 </p>
 
 
