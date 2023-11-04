@@ -13,13 +13,13 @@ As a self-taught data scientist from a minority under-represented group in the G
  
 <br/>
 
--   [**UN-Habitat: Session Co-Moderator: and Youth Member to the Kenya Permanent Mission to the UN-Habitat**](https://deeplearningindaba.com/2022/indaba/organisers/) 
+-   **UN-Habitat: Session Co-Moderator at the Second UN-Habitat Assembly 2023**
 
- <p float="right">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab1.jfif" width="45%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif" width="45%" />
-</p>
-
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/unhab2.jfif">
+      </figure>
+</center>
 
 <br/>
 
