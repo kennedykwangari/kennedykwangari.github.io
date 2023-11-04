@@ -33,6 +33,7 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 - [**Azubi Africa: Building a Career in Data Science and Analytics**](https://twitter.com/AzubiAfrica/status/1651156723468496907?t=0EwB9XeRjepdXSLMxn1_mQ&s=19)
 
+- [**Azubi Africa: Opportunities ❙ Demand and Career Growth Opportunities in Data**](https://twitter.com/AzubiAfrica/status/1676181044058357762?t=Y4hZewdK-2Qwq5PTaED16w&s=19)
 
 - [**Data Science East Africa Ultimate Python Meetup:**](https://twitter.com/DSEAfrica/status/1534088867422384128?t=fcMhCt88mLkxTRvL7FRrqQ&s=19)
 
