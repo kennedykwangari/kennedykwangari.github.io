@@ -73,6 +73,8 @@ I’m grateful for every opportunity to share my work. I can talk about:
       </figure>
 </center>
 
+- [**How to Build a Real-World AI Project Portfolio:**](https://twitter.com/DeepLearningAI/status/1592233101010558976?t=JHdc4e_7ju3Xyr5rb-Zagg&s=19)
+
 
 - [**Amref Annual Technical Review Meeting 2022:**](https://twitter.com/Amref_Kenya/status/1585105307185082368?t=eTx6oJIy8fR12NU2qmik0Q&s=19)
 
