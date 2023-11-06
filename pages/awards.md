@@ -10,6 +10,15 @@ permalink: /Awards and Honors/
 
 <center>
   <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/omdena.jfif">
+      </figure>
+</center>
+
+
+- [**Coursera Learner of the Year 2022:**](https://blog.coursera.org/by-embracing-three-key-mindsets-kennedy-channeled-his-passion-for-ai-and-learning-into-a-successful-career/) Feted by Coursera for being a stand-out voice in the Coursera global community of learners.
+
+<center>
+  <figure>
     <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedycoursera.jpg">
       </figure>
 </center>
