@@ -46,4 +46,4 @@ He shares his passion for a sustainable data-literate world through public speak
 
  [**Kennedy Kamande Wangari**](https://www.linkedin.com/in/kennedykwangari/)
  
-**MSc AI Student @The University of Edinburgh 📚🤖 ❙❙ Developer Advocate - Artificial Intelligence 🥑 ❙❙ Technology Columnist @The Star Newspaper📰✍️**
+**MSc AI Student @The University of Edinburgh 📚🤖 ❙❙ Data and Technology Policy Analyst⚖️📊 ❙❙ Technology Columnist @The Star Newspaper & The Business Daily Newspaper 📰✍️**
