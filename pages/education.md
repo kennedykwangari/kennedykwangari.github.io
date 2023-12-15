@@ -6,7 +6,7 @@ permalink: /Education/
 
 ### Education, Training, and Certifications 📚🧑‍🎓
 
-- As a postgraduate student (**2023-2024**), pursuing **MSc. Artificial Intelligence** at **the University of Edinburgh**, his work aims to pave the way towards a better understanding of the societal and environmental impacts of AI models, datasets, and systems. 
+- As a postgraduate student, pursuing an MSc. Artificial Intelligence at the University of Edinburgh, his work aims to pave the way towards a better understanding of the societal and environmental impacts of AI models, datasets, and systems. 
 
 <center>
   <figure>
@@ -15,17 +15,16 @@ permalink: /Education/
 </center>
 
 ▶️ His research topics are in:
-- Calculating the carbon impact of AI algorithms
-- Responsible and reproducible machine learning
-- Investigating and documenting large datasets
-- Best practices for data collection and sharing
-- Natural Language Processing for Kenyan Languages
-
+-  Calculating the Carbon Impact of AI Algorithms
+-  Responsible Natural Language Processing
+-  Investigating and Documenting Large Datasets
+-  Best Practices for Data Collection and Sharing
+-  Multilingual Neural Machine Translation for Kenyan Low-Resourced Languages
 
 -[Bsc. Information Technology](http://www.jkuat.ac.ke/departments/it/) from [Jomo Kenyatta University of Agriculture and Technology](http://www.jkuat.ac.ke/jkuat-students-top-the-2019-oracle-student-hackathon/) (2016 - 2020) (Final Year Dissertation: [Disaster-Watcher-Crises-Alert-and-Monitoring-System
 ](https://github.com/kennedykwangari/Disaster-Watcher-Crises-Alert-and-Monitoring-System)
 
--   High School from [Starehe Boys' Centre and School](http://www.stareheboyscentre.ac.ke/sbc/) (SBC) (2012 - 2015)
+-   High School from [Starehe Boys' Centre and School](http://www.stareheboyscentre.ac.ke/sbc/) (2012 - 2015)
 
 -   Courses, Certifications, and Training Relevant to my subjects of interest:
 
