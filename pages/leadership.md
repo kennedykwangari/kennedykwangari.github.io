@@ -34,9 +34,11 @@ As a self-taught data scientist from a minority under-represented group in the G
 
 
 - [**Data Science Nigeria ❙❙ Hackathon Solutions Reviewer:**](https://drive.google.com/file/d/14CM-g9TzLwccVbohp9ZUV1_EFaryKIi2/view): Mobility and Geospatial Data for Health Solutions in Africa Hackathon
+  
+ - Provided mentorship, guided, reviewed and assessed the Mobility and Geospatial Data for Health Solutions in Africa Hackathon submissions
+ - Ensured meaningful experiences for the hack teams and determined the winners
 
 <br/>
-
 
 -[**Technical Mentor: The AI Global Hub:**](https://globalaihub.com/top-50-thought-leaders-to-influence-your-mind/?fbclid=IwAR1nUgfQfG_M4rmA6FVuHDEqeXDa6Z5HGhUc9cdlnvzhhE92ZGQsBIft3-c)
 
