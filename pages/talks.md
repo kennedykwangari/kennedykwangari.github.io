@@ -195,6 +195,11 @@ I’m grateful for every opportunity to share my work. I can talk about:
  - **Pie & AI: Nairobi, Kenya: Organization, Tools And Workflows For Modern Data Scientist (15th September, 2020)**
 <p> <a href="https://www.youtube.com/watch?v=YoS69_4zWHQ">Click here to view the Video</a>.</p>
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/Omdenawebinar.jpg">
+      </figure>
+</center>
 
 
 - **Pie & AI: Kigali, Rwanda: Breaking into AI: Learning Artificial Intelligence (22nd August 20220)**
