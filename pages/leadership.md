@@ -3,7 +3,7 @@ layout: page
 title: Leadership
 permalink: /Leadership/
 ---
-### Global Assignments, Leadership, Volunteering and Community Building
+#### Global Assignments, Leadership, Volunteering and Community Building
 
 -   **UN-Habitat: Session Co-Moderator at the Second UN-Habitat Assembly 2023**
 
