@@ -31,6 +31,9 @@ permalink: /Education/
 
     -   [Preparing for Google Cloud Certification: Cloud Architect (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/BT23DGMFGX38)
     -   [Preparing for Google Cloud Certification: Cloud Engineer (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/GX6HEWAMDFXD)
+    -   [Deep Learning Specialization (Deeplearning.AI)](https://www.coursera.org/account/accomplishments/specialization/MEJD56W7LY3H)
+    -   [Business Analytics Specialization (University of Pennsylvania)](https://www.coursera.org/account/accomplishments/specialization/JS6T3FSGGK5W)
+    -   [Introduction to Data Science Specialization (IBM)](https://www.coursera.org/account/accomplishments/specialization/HDQ4ZVMYYYRZ)
     -   [Applied Data Science with Python (The University of Michigan)](https://www.coursera.org/account/accomplishments/specialization/88SRFZVAXHYW)
     -   [Project Management Principles and Practices ( The University of California, Irvine)](https://www.coursera.org/account/accomplishments/specialization/C5Z47LREAX9T)
     -   [AI for Medicine Specialization (Deeplearning.AI) ](https://www.coursera.org/account/accomplishments/specialization/BPGLNFMNP49H)
