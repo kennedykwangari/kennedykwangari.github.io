@@ -71,14 +71,28 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
     -   Designing training programs to empower, support, and strengthen the professional development of new African AI talent. 
 
 
+-  -[**2019-2021 ❙❙ GDSC JKUAT Data Science Community Lead:**](https://twitter.com/dscjkuat)
+
+    -   Established and co-founded the first JKUAT Data Science tech community.
+    -   Recruited, trained, mentored, and provided computing resources to 100+ data enthusiasts, guided, mobilized, and led 3 teams to win data science competitions/ hackathon awards.
+
+<center>
+  
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/udacitydata.jpg">
+      </figure>
+</center>
+
+<br/>
+
+
 -  -[**2020-2021 ❙❙ AWS Educate Student Cloud Ambassador:**](https://aws.amazon.com/blogs/publicsector/aws-educate-announces-inaugural-student-ambassador-cohort/)
 
-    -   Secured **10,000$ AWS credits for Cloud Computing** to empower 27 scholars in [**Kenya**](https://twitter.com/dscjkuat) to continue building innovatively with the AWS Services, and technologies. 
-    -   Spearheaded the discussions, and establishment of a partnership between JKUAT, and the AWS Academy, making JKUAT the first ([**AWS Academy Member Institution in Kenya**](https://aws.amazon.com/training/awsacademy/) and East Africa.
     -   Designing training programs to empower, support, and strengthen the professional development of new African AI talent.
     -   Secured 10,000$ AWS credits for Cloud Computing to empower 27 scholars in Kenya to continue building innovatively with the AWS Services, and technologies.
     -   Spearheaded the discussions, and establishment of a partnership between JKUAT, and the AWS Academy, making JKUAT the first (AWS Academy Member Institution in Kenya and East Africa.
     -   Designed training programs to empower, support, and strengthen the professional development of new African AI talent.
+
 <center>
   <figure>
     <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/awseducate.jpeg">
@@ -98,6 +112,7 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
       </figure>
 </center>
 
+<br/>
 
 
 
