@@ -138,6 +138,13 @@ I’m grateful for every opportunity to share my work. I can talk about:
 - [**Balancing AI Courses and Real-World Projects, Mindset, and Securing an NVIDIA Internship**](https://omdena.com/blog/nvidia-ai/)
 
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/omdenaevent1.jpg">
+      </figure>
+</center>
+
+
 - [**Jenga School Webinar Bytes Series: Where do you find the data science opportunities and tap into the talent?**](https://twitter.com/JENGASchool/status/1323675680077471745/photo/1)
 
 
