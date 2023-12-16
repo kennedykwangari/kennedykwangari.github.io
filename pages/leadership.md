@@ -84,6 +84,22 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
 </center>
 
 
+-  -[**2019 ❙❙ Udacity Bertelsmann Data Science Track Technical Leader:**](https://docs.google.com/spreadsheets/d/1P88ZSsQ2MXXda-NBoDi5nD5B1xk0QPYs8dhtKUYXYhE/edit#gid=0)
+
+    -   Supported learners enrolled in the the Bertelsmann Udacity Data Science Scholarship 2019
+    -   Provided technical mentorship, feedback, guidance and preparation for successful experience in the Data Science Nanodegree program
+
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/udacitydata.jpg">
+      </figure>
+</center>
+
+
+
+
+
+
 
 
 
