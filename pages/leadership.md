@@ -43,6 +43,12 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
     -   Assisted in welcoming the attendees, the check-in process, providing badges, materials, event schedules and providing directions to different conference areas.
     -   I presented my poster paper work on: ‘DeepPlastic Watch:  A Deep Learning Approach for Marine Plastic Litter Detection, Classification, and Quantification’.
 
+ <center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyaccra.jpg">
+      </figure>
+</center>
+
   <br/>
 
 
