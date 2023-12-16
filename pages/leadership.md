@@ -32,11 +32,11 @@ As a self-taught data scientist from a minority under-represented group in the G
       </figure>
 </center>
 
+-  -[**2023❙❙ Data Science Nigeria ❙❙ Hackathon Solutions Reviewer:**](https://drive.google.com/file/d/14CM-g9TzLwccVbohp9ZUV1_EFaryKIi2/view)
 
-- [**Data Science Nigeria ❙❙ Hackathon Solutions Reviewer:**](https://drive.google.com/file/d/14CM-g9TzLwccVbohp9ZUV1_EFaryKIi2/view): Mobility and Geospatial Data for Health Solutions in Africa Hackathon
-  
- - Provided mentorship, guided, reviewed and assessed the Mobility and Geospatial Data for Health Solutions in Africa Hackathon submissions
- - Ensured meaningful experiences for the hack teams and determined the winners
+    -   Provided mentorship, guided, reviewed and assessed the Mobility and Geospatial Data for Health Solutions in Africa Hackathon submissions
+    -   Ensured meaningful experiences for the hack teams and determined the winners
+
 
 <br/>
 
