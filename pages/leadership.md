@@ -96,6 +96,15 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
 
 <br/>
 
+-  -[**2020-2021 ❙❙ NeurIPS Volunteer and Meetup Organizer:**](https://www.google.com/maps/d/u/1/viewer?mid=1IYwYCUCsAY0KlH2JsG-gP0WIBGb3afhv&ll=11.088801368616773%2C23.443450434696405&z=5)
+
+    -   Provided technical assistance during, and after the NeurIPS 2020 and  2021 Virtual Conferences
+    -   Assisted with Tutorials, Sessions, [**Workshops**](https://www.eventbrite.com/e/pie-ai-nairobi-neurips-2020-meetup-tickets-128815068337), Socials, and Affinity Groups
+    -   Tested the website and staffing the Helpdesk during the virtual conference
+    -   Organized the [**NeurIPS 2020 Nairobi Meetup**](https://twitter.com/DiscoverJKUAT/status/1329000645479772161)
+
+<br/>
+
 
 -  -[**2020-2021 ❙❙ AWS Educate Student Cloud Ambassador:**](https://aws.amazon.com/blogs/publicsector/aws-educate-announces-inaugural-student-ambassador-cohort/)
 
