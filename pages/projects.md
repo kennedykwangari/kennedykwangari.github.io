@@ -46,7 +46,7 @@ A team of [**28 AI Experts and Data Scientists**](https://omdena.com/blog/artifi
 </p>
 
 
-### NLP for Kenyan Languages: Masakhane Community
+### Multilingual Neural Machine Translation for Kenyan Low-Resourced Languages: The Masakhane Community
 
 -   [**Masakhane- A living collection of NLP projects for Africans, by Africans**](https://www.masakhane.io)
 
