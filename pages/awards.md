@@ -6,6 +6,13 @@ permalink: /Awards and Honors/
 
 ## Selected Awards, Honors, and Recognitions
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/awardkennedy.jpeg">
+      </figure>
+</center>
+
+
 - [**Omdena AI: Key AI Community Collaborator Appreciation:**](https://twitter.com/kennedykwangari/status/1539118724506079232?t=niLKFwXZHKjG-khZTaWcgg&s=19) Recognized for our [**active contributions:**](https://omdena.com/blog/machine-learning-engineer-in-omdena-challenges/) to various machine learning for good projects: having steered 3 data teams to address global issues like climate change, financial inclusion and public health.
 
 <center>
