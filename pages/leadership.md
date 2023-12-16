@@ -40,7 +40,9 @@ As a self-taught data scientist from a minority under-represented group in the G
 
 <br/>
 
--[**Technical Mentor: The AI Global Hub:**](https://globalaihub.com/top-50-thought-leaders-to-influence-your-mind/?fbclid=IwAR1nUgfQfG_M4rmA6FVuHDEqeXDa6Z5HGhUc9cdlnvzhhE92ZGQsBIft3-c)
+-  -[**2022 ❙❙ Technical Mentor: The AI Global Hub:**](https://globalaihub.com/top-50-thought-leaders-to-influence-your-mind)
+
+    -   Providing technical support, guidance and feedback to learners towards achieving their AI skills and projects goals
 
 <center>
   <figure>
