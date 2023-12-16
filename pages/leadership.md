@@ -62,20 +62,13 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
   
   <br/>
 
--   **2018-2021 ❙❙ Technology Community Lead and Builder:** ([**AWS Academy Program**](https://aws.amazon.com/training/awsacademy/), + [**AWS Educate Cloud Ambassador**](https://aws.amazon.com/blogs/publicsector/aws-educate-announces-inaugural-student-ambassador-cohort/), + [**Udacity Bertlesmann Data Science**](https://mobile.twitter.com/kennedykwangari/status/1204121397024428033), + IndabaX Kenya + [**Google Developer Student Club of JKUAT**](https://twitter.com/dscjkuat/status/1204285957966630913).
 
-    -   Established and co-founded the first [**JKUAT Data Science tech community**](https://twitter.com/dscjkuat/status/1204285957966630913).
-    -   Recruited, trained, mentored, and provided computing resources to 100+ data enthusiasts, guided, mobilized, and led [**3 teams to win data science competitions/ hackathon awards.)**](http://discover.jkuat.ac.ke/jkuat-students-top-at-the-2019-oracle-student-hackathon/)
-    -   Secured **10,000$ AWS credits for Cloud Computing** to empower 27 scholars in [**Kenya**](https://twitter.com/dscjkuat) to continue building innovatively with the AWS Services, and technologies. 
-    -   Spearheaded the discussions, and establishment of a partnership between JKUAT, and the AWS Academy, making JKUAT the first ([**AWS Academy Member Institution in Kenya**](https://aws.amazon.com/training/awsacademy/) and East Africa.
-    -   Designing training programs to empower, support, and strengthen the professional development of new African AI talent. 
 
 
 -  -[**2019-2021 ❙❙ GDSC JKUAT Data Science Community Lead:**](https://twitter.com/dscjkuat)
 
     -   Established and co-founded the first JKUAT Data Science tech community.
     -   Recruited, trained, mentored, and provided computing resources to 100+ data enthusiasts, guided, mobilized, and [**led 3 teams to win data science competitions**](https://dailyactive.info/2019/03/27/congrats-4-students-feted-at-oracle-student-hackathon-challenge/) / hackathon awards.
-
 
 
 <center>
@@ -102,6 +95,7 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
 </center>
 
 <br/>
+
 
 -  -[**2019 ❙❙ Udacity Bertelsmann Data Science Track Technical Leader:**](https://docs.google.com/spreadsheets/d/1P88ZSsQ2MXXda-NBoDi5nD5B1xk0QPYs8dhtKUYXYhE/edit#gid=0)
 
