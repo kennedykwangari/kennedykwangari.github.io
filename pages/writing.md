@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Writing
-permalink: /Writing/
+title: Resources
+permalink: /Resources/
 ---
 #### Data Blogging Articles 📊💡
 
