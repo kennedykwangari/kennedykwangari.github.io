@@ -3,6 +3,7 @@ layout: page
 title: Journalism
 permalink: /Journalism/
 ---
+### Data Journalism and Broadcast Media Relations
 
 ⭐Kennedy is a Technology Columnist with the Star Newspaper (a local newspaper in Kenya), where he writes a continued series of ICT-related articles.📰✍️ 
 
