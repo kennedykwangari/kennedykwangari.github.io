@@ -77,8 +77,14 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
 - He has empowered over 7,691 black technology community members with free one-year data education scholarships from Coursera and Datacamp to improve their data literacy levels and advance for in-demand careers in the data field.
 - Mentoring the learners enrolled in the Natural Language Processing Specialization
 
-  <br/>
+<center>
+  
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/Deeplearning.AI.jpg">
+      </figure>
+</center>
 
+<br/>
 
 
 -  -[**2019-2021 ❙❙ GDSC JKUAT Data Science Community Lead:**](https://twitter.com/dscjkuat)
