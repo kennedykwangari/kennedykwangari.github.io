@@ -79,7 +79,7 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
 <center>
   
   <figure>
-    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/udacitydata.jpg">
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/dscjkuat.jpg">
       </figure>
 </center>
 
