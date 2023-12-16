@@ -41,16 +41,20 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
 
 -   [**Volunteers Committee Member**](https://drive.google.com/file/d/1K2H_suKAgD2UbmOHBivF7b-gbk5nabyQ/view?usp=sharing): **The Deep Learning Indaba** Conference 2023, The University of Ghana, Accra, Ghana
   <br/>
-  
--   [**Sponsorship Committee Organizing Member**](https://deeplearningindaba.com/2022/indaba/organisers/): **The Deep Learning Indaba** Conference 2022, Tunis, Tunisia
- 
-<br/>
 
-<center>
+-  -[**2022 ❙❙ Sponsorship Committee Organizing Member: ❙❙ The Deep Learning Indaba Conference 2022, Tunis, Tunisia:**](https://deeplearningindaba.com/2022/indaba/organisers/)
+
+    -   Supported the fund-raising, logistics and communication about sponsorship and sponsor-related activities.
+    -   Having steered the partnership and onboarded Datacamp as one of our partners, I spearheaded the distribution, allocation and ensured that all the attendees received a free one-year data training scholarship, post-Indaba 2022 to improve their data literacy levels.
+
+ <center>
   <figure>
     <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/dliaccra.jpg">
       </figure>
 </center>
+
+<br/>
+
 
 -  -[**2023 ❙❙ Data Science Nigeria ❙❙ Hackathon Solutions Reviewer:**](https://drive.google.com/file/d/14CM-g9TzLwccVbohp9ZUV1_EFaryKIi2/view)
 
