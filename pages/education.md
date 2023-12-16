@@ -29,7 +29,7 @@ permalink: /Education/
 
 -   Courses, Licences, Certifications, and Training:
 
-    -   [Preparing for Google Cloud Certification: Cloud Architect (Google Cloud)]()
+    -   [Preparing for Google Cloud Certification: Cloud Architect (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/BT23DGMFGX38)
     -   [Data Scientist with Python Track (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/cbf12c8a5894bbf0523a7ab4df72f0ae63275196)
     -   [Machine Learning Scientist with Python (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/cbea012a54c87b987dd613a655f0c88cd3e7b3d2)
     -   [Data Analyst with Python Track (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/track/27652c5f98806e368c88aefd588cdea0d95a851b)
