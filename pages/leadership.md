@@ -150,8 +150,8 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
     -   We’ve supported over 500 students to learn and grow as part of the university’s technology developer ecosystems, training them for the future of work.
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/JKUAT (1).jpg" width="45%" />
-  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/JKUAT (5).jpg" width="45%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/JKUAT (1).jpg" width="40%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/JKUAT (5).jpg" width="40%" />
 </p>
 
 
