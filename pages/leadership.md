@@ -128,6 +128,19 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
 
 
 
+-  -[**2017-2019 ❙❙ Jomo Kenyatta University Students Association (JKUSA):**](https://docs.google.com/spreadsheets/d/1P88ZSsQ2MXXda-NBoDi5nD5B1xk0QPYs8dhtKUYXYhE/edit#gid=0)
+
+    -   I served in the Jomo Kenyatta University Students Association body (JKUSA) as the Representative, College of Pure and Applied Sciences (COPAS) in the Students’ Congress, playing an active role in the development, and enhancement of the faculty’s educational provision to the students.
+    -   I’ve represented the views of the students through meetings and committees, liaised with fellow Congress, University staff, and the Student Union body to find the most common issues, areas of best practice and solutions.
+    -   We’ve supported over 500 students to learn and grow as part of the university’s technology developer ecosystems, training them for the future of work.
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/JKUAT (1).jpg" width="45%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/JKUAT (5).jpg" width="45%" />
+</p>
+
+
+<br/>
 
 
 
