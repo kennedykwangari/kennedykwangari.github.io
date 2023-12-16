@@ -84,7 +84,7 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
 -  -[**2019-2021 ❙❙ GDSC JKUAT Data Science Community Lead:**](https://twitter.com/dscjkuat)
 
     -   Established and co-founded the first JKUAT Data Science tech community.
-    -   Recruited, trained, mentored, and provided computing resources to 100+ data enthusiasts, guided, mobilized, and [**led 3 teams to win data science competitions**](https://dailyactive.info/2019/03/27/congrats-4-students-feted-at-oracle-student-hackathon-challenge/) / hackathon awards.
+    -   Recruited, trained, mentored, and provided computing resources to 100+ data enthusiasts, guided, mobilized, and [**led 3 teams to win data science competitions**](https://dailyactive.info/2019/03/27/congrats-4-students-feted-at-oracle-student-hackathon-challenge/).
 
 
 <center>
