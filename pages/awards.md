@@ -45,6 +45,12 @@ permalink: /Awards and Honors/
       </figure>
 </center>
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/oracle13.jpeg">
+      </figure>
+</center>
+
 
 
 -	[**Earned the Contribution to Innovation and Technology Award (JKUSA AWARDS, JKUAT 2018):**](http://discover.jkuat.ac.ke/jkusa-award-winners-20172018-feted/) 
