@@ -38,9 +38,13 @@ As a Developer Advocate, Kennedy leads the Deeplearning.AI Nairobi Community wit
 
 <br/>
 
+-  -[**2023 ❙❙ Volunteers Committee Member: The Deep Learning Indaba Conference 2023, The University of Ghana, Accra, Ghana:**](https://drive.google.com/file/d/1K2H_suKAgD2UbmOHBivF7b-gbk5nabyQ/view)
 
--   [**Volunteers Committee Member**](https://drive.google.com/file/d/1K2H_suKAgD2UbmOHBivF7b-gbk5nabyQ/view?usp=sharing): **The Deep Learning Indaba** Conference 2023, The University of Ghana, Accra, Ghana
+    -   Assisted in welcoming the attendees, the check-in process, providing badges, materials, event schedules and providing directions to different conference areas.
+    -   I presented my poster paper work on: ‘DeepPlastic Watch:  A Deep Learning Approach for Marine Plastic Litter Detection, Classification, and Quantification’.
+
   <br/>
+
 
 -  -[**2022 ❙❙ Sponsorship Committee Organizing Member: ❙❙ The Deep Learning Indaba Conference 2022, Tunis, Tunisia:**](https://deeplearningindaba.com/2022/indaba/organisers/)
 
