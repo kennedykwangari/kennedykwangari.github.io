@@ -88,10 +88,12 @@ He shares his passion for a sustainable data-literate world through public speak
 <p> <a href="https://www.youtube.com/watch?v=n1sSXvAMI4c">Click here to watch the video</a>.</p>
 
 
-<p align="center">
-  <img alt="Light" src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ntv101.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ntv101.jpg">
+      </figure>
+</center>
+
 
 - **KBC Channel 1 ❙❙ Take On Tech Show ❙❙ Combating Fake News Online Project Showcase**
 <p> <a href="https://www.youtube.com/watch?v=Xo56F6A0MSY&ab_channel=KBCChannel1TVShows">Click here to watch the video</a>.</p>
