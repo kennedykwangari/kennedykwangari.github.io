@@ -53,8 +53,7 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
 
   <br/>
 
-
--  -[**2023 ❙❙ Tableau Social Ambassador 2023:**](https://drive.google.com/file/d/1K2H_suKAgD2UbmOHBivF7b-gbk5nabyQ/view)
+-  -[**2023 ❙❙ Tableau Social Ambassador:**](https://drive.google.com/file/d/1K2H_suKAgD2UbmOHBivF7b-gbk5nabyQ/view)
 
     -   Social Ambassadors go above and beyond to drive thought-provoking conversations about data in social media. They champion others and welcome all people to the #DataFam.
 
