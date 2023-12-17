@@ -54,6 +54,19 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
   <br/>
 
 
+-  -[**2023 ❙❙ Tableau Social Ambassador 2023:**](https://drive.google.com/file/d/1K2H_suKAgD2UbmOHBivF7b-gbk5nabyQ/view)
+
+    -   Social Ambassadors go above and beyond to drive thought-provoking conversations about data in social media. They champion others and welcome all people to the #DataFam.
+
+ <center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/tableau.jfif">
+      </figure>
+</center>
+
+  <br/>
+  
+
 -  -[**2022 ❙❙ Sponsorship Committee Organizing Member: ❙❙ The Deep Learning Indaba Conference 2022, Tunis, Tunisia:**](https://deeplearningindaba.com/2022/indaba/organisers/)
 
     -   Supported the fund-raising, logistics and communication about sponsorship and sponsor-related activities.
@@ -112,9 +125,6 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
     -   Organized the [**NeurIPS 2020 Nairobi Meetup**](https://twitter.com/DiscoverJKUAT/status/1329000645479772161)
 
 <br/>
-
-https://awseducate-public.s3.amazonaws.com/student-ambassador/Student+Certificates+5.22/Certificates+Updated-+5.22_01(149).pdf
-
 
 -  -[**2020-2021 ❙❙ AWS Educate Student Cloud Ambassador:**](https://aws.amazon.com/blogs/publicsector/aws-educate-announces-inaugural-student-ambassador-cohort/)
 
