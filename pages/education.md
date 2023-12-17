@@ -31,6 +31,7 @@ permalink: /Education/
 
     -   [Preparing for Google Cloud Certification: Cloud Architect (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/BT23DGMFGX38)
     -   [Preparing for Google Cloud Certification: Cloud Engineer (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/GX6HEWAMDFXD)
+    -   [AWS Educate Student Ambassador Certificate (AWS)](https://awseducate-public.s3.amazonaws.com/student-ambassador/Student+Certificates+5.22/Certificates+Updated-+5.22_01(149).pdf)
     -   [Deep Learning Specialization (Deeplearning.AI)](https://www.coursera.org/account/accomplishments/specialization/MEJD56W7LY3H)
     -   [Business Analytics Specialization (University of Pennsylvania)](https://www.coursera.org/account/accomplishments/specialization/JS6T3FSGGK5W)
     -   [Introduction to Data Science Specialization (IBM)](https://www.coursera.org/account/accomplishments/specialization/HDQ4ZVMYYYRZ)
