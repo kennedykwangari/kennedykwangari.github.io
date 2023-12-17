@@ -87,6 +87,12 @@ He shares his passion for a sustainable data-literate world through public speak
 - **KBC Channel 1 ❙❙ Take On Tech Show ❙❙ Exploring The World of Artificial Intelligence**
 <p> <a href="https://www.youtube.com/watch?v=n1sSXvAMI4c">Click here to watch the video</a>.</p>
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/ntv101.jpg" width="45%" />
+  <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/spicefm (2).jpg" width="45%" />
+</p>
+
+
 - **KBC Channel 1 ❙❙ Take On Tech Show ❙❙ Combating Fake News Online Project Showcase**
 <p> <a href="https://www.youtube.com/watch?v=Xo56F6A0MSY&ab_channel=KBCChannel1TVShows">Click here to watch the video</a>.</p>
 
