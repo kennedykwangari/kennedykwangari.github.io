@@ -127,7 +127,6 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
 
 -  -[**2020-2021 ❙❙ AWS Educate Student Cloud Ambassador:**](https://aws.amazon.com/blogs/publicsector/aws-educate-announces-inaugural-student-ambassador-cohort/)
 
-    -   Designing training programs to empower, support, and strengthen the professional development of new African AI talent.
     -   Secured 10,000$ AWS credits for Cloud Computing to empower 27 scholars in Kenya to continue building innovatively with the AWS Services, and technologies.
     -   Spearheaded the discussions, and establishment of a partnership between JKUAT, and the AWS Academy, making JKUAT the first ( [**AWS Academy Member Institution**](https://awseducate-public.s3.amazonaws.com/student-ambassador/Student+Certificates+5.22/Certificates+Updated-+5.22_01(149).pdf) in Kenya and East Africa.
     -   Designed training programs to empower, support, and strengthen the professional development of new African AI talent.
