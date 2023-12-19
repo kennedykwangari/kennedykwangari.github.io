@@ -161,6 +161,7 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
     -   I’ve represented the views of the students through meetings and committees, liaised with fellow Congress, University staff, and the Student Union body to find the most common issues, areas of best practice and solutions.
     -   We’ve supported over 500 students to learn and grow as part of the university’s technology developer ecosystems, training them for the future of work.
 
+<br/>
 
  -   [The Jomo Kenyatta University Students Association (JKUSA) Promulgates the 2017 Reviewed Constitution ( The Discover JKUAT Blog)](http://discover.jkuat.ac.ke/jkusa-promulgates-reviewed-consitution/)
  -   [Kennedy Leads a Team of JKUAT Students To Win The 2019 Oracle Student Hackathon (The Discover JKUAT Blog)](http://discover.jkuat.ac.ke/jkuat-students-top-at-the-2019-oracle-student-hackathon/)
