@@ -100,8 +100,7 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
 
 <br/>
 
--  -[**2021-2022 ❙❙ Technical Reviewer:**](https://aws.amazon.com/blogs/publicsector/aws-educate-announces-inaugural-student-ambassador-cohort/)
-
+-  -[**2021-2022 ❙❙ Technical Reviewer:**](https://twitter.com/kennedykwangari/status/1410244425939357707?t=uo_bRe50T1vLr-vLrgvQqw&s=19)
     -   Reviewed book chapters, provided technical feedback, assistance and guidance on Python, data science, machine learning books and tutorials to the authors and book editors with the goal of improving the quality for readers when the book releases!
 
 
