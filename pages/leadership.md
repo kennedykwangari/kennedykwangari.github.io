@@ -100,6 +100,21 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
 
 <br/>
 
+-  -[**2021-2022 ❙❙ Technical Reviewer:**](https://aws.amazon.com/blogs/publicsector/aws-educate-announces-inaugural-student-ambassador-cohort/)
+
+    -   Secured 10,000$ AWS credits for Cloud Computing to empower 27 scholars in Kenya to continue building innovatively with the AWS Services, and technologies.
+    -   Reviewed book chapters, provided technical feedback, assistance and guidance on Python, data science, machine learning books and tutorials to the authors and book editors with the goal of improving the quality for readers when the book releases!
+
+
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/PACKT Book (1).jpg">
+      </figure>
+</center>
+
+<br/>
+
+
 
 -  -[**2019-2021 ❙❙ GDSC JKUAT Data Science Community Lead:**](https://twitter.com/dscjkuat)
 
