@@ -137,10 +137,7 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
 
 <br/>
 
-2020 ❙❙ Technical Mentor ❙❙ Hackmakers #BuildwithAI Global Hackathon Challenge
-
-
--  -[**2022 ❙❙ Technical Mentor: The AI Global Hub:**](https://au.badgr.com/public/assertions/AxBtzA8eSka1-dZ12CugXw?action=download)
+-  -[**2020 ❙❙ Technical Mentor ❙❙ Hackmakers #BuildwithAI Global Hackathon Challenge:**](https://au.badgr.com/public/assertions/AxBtzA8eSka1-dZ12CugXw?action=download)
 
     -   Provided mentorship, guided, reviewed and assessed the #BuildwithAI Global 2020 Hackathon Challenge submissions themed around the global COVID-19 pandemic.
     -   Ensured meaningful experiences for the various hack challenge teams and determined the winners
