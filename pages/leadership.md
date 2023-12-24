@@ -137,13 +137,21 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
 
 <br/>
 
-
 2020 ❙❙ Technical Mentor ❙❙ Hackmakers #BuildwithAI Global Hackathon Challenge
 
-Provided mentorship, guided, reviewed and assessed the #BuildwithAI Global 2020 Hackathon Challenge submissions themed around the global COVID-19 pandemic.
-Ensured meaningful experiences for the various hack challenge teams and determined the winners
 
-https://au.badgr.com/public/assertions/AxBtzA8eSka1-dZ12CugXw?action=download
+-  -[**2022 ❙❙ Technical Mentor: The AI Global Hub:**](https://au.badgr.com/public/assertions/AxBtzA8eSka1-dZ12CugXw?action=download)
+
+    -   Provided mentorship, guided, reviewed and assessed the #BuildwithAI Global 2020 Hackathon Challenge submissions themed around the global COVID-19 pandemic.
+    -   Ensured meaningful experiences for the various hack challenge teams and determined the winners
+
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/aiglobalhub.jpg">
+      </figure>
+</center>
+
+<br/>
 
 
 -  -[**2020-2021 ❙❙ AWS Educate Student Cloud Ambassador:**](https://aws.amazon.com/blogs/publicsector/aws-educate-announces-inaugural-student-ambassador-cohort/)
