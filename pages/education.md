@@ -24,6 +24,13 @@ permalink: /Education/
 -[Bsc. Information Technology](http://www.jkuat.ac.ke/departments/it/) from [Jomo Kenyatta University of Agriculture and Technology](http://www.jkuat.ac.ke/jkuat-students-top-the-2019-oracle-student-hackathon/) (2016 - 2020) (Final Year Dissertation: [Disaster-Watcher-Crises-Alert-and-Monitoring-System
 ](https://github.com/kennedykwangari/Disaster-Watcher-Crises-Alert-and-Monitoring-System)
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/jkuatgrad.jpg">
+      </figure>
+</center>
+
+
 -   High School Studies from [Starehe Boys' Centre and School](http://www.stareheboyscentre.ac.ke/sbc/) (2012 - 2015): A- of 80 Points
 
 
