@@ -1,4 +1,4 @@
-[**Kennedy Kamande Wangari**](https://www.linkedin.com/in/kennedykamandewangari/) is an award-winning Data Scientist, Technology Community Builder, Technology Columnist, and an AI Researcher; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
+**Kennedy Kamande Wangari** is an award-winning Data Scientist, Technology Community Builder, Technology Columnist, and an AI Researcher; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
 
 <center>
   <figure>
