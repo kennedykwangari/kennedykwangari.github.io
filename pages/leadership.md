@@ -180,11 +180,14 @@ As a [**Developer Advocate**](https://drive.google.com/file/d/1cIZnNTFTC4s_Dt_HG
 <br/>
 
 
--  -[**2017-2019 ❙❙ Jomo Kenyatta University Students Association (JKUSA):**](https://docs.google.com/spreadsheets/d/1P88ZSsQ2MXXda-NBoDi5nD5B1xk0QPYs8dhtKUYXYhE/edit#gid=0)
+-  -[**2017-2019 ❙❙ Jomo Kenyatta University Students Association (JKUSA):**](http://discover.jkuat.ac.ke/jkusa-promulgates-reviewed-consitution/)
 
-    -   I served in the Jomo Kenyatta University Students Association body (JKUSA) as the Representative, College of Pure and Applied Sciences (COPAS) in the Students’ Congress, playing an active role in the development, and enhancement of the faculty’s educational provision to the students.
-    -   I’ve represented the views of the students through meetings and committees, liaised with fellow Congress, University staff, and the Student Union body to find the most common issues, areas of best practice and solutions.
-    -   We’ve supported over 500 students to learn and grow as part of the university’s technology developer ecosystems, training them for the future of work.
+    -   Appointed Member of the JKUSA Academic Affairs Committee (2017-2018): Advocated for the development and enhancement of the educational provisions to students.
+    -   Class Representative (BSc. Information Technology: 2016-2020)
+    -   Commissioner involved in the Review and Promulgation of the JKUSA Constitution 2017.
+    -   Kennedy represented the views/ issues of the students welfare through meetings and committees, liaising with fellow Congress, University staff, and the Student Union body to find the most common issues, areas of best practice and solutions.
+    -   Supported over 500 students to learn, and grow as part of the university’s technology developer ecosystems (Google Developer Student Club of JKUAT and the  JKUAT Microsoft Learn Student Ambassadors), training them on emerging technologies and the future of work.
+
 
 <br/>
 
