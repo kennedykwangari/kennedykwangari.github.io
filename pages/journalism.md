@@ -57,6 +57,7 @@ He shares his passion for a sustainable data-literate world through public speak
       </figure>
 </center>
 
+-   [**CNBC Africa ❙❙ The PowerLunch Show: Making AI Work for Humanity: AI Governance Risks, Regulations and Trends:**](https://www.cnbcafrica.com/media/6345040131112/adopting-ai-and-managing-associated-risks/)
 
 
 - **NTV ❙❙ The AMLIVE Show: Safeguarding The Digital Space:**
