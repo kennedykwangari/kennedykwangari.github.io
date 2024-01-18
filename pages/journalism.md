@@ -63,8 +63,12 @@ He shares his passion for a sustainable data-literate world through public speak
 - **NTV ❙❙ The AMLIVE Show: Safeguarding The Digital Space:**
 <p> <a href="https://youtu.be/Dsxx1_0MJeM">Click here to watch the video</a>.</p>
 
-- **NTV Your World Show ❙❙ The Impact of Technology on Human Resources Management: Could AI and Robots be your next colleague – or coming for your office job?**
-<p> <a href="https://www.youtube.com/watch?v=2-Ll6SpCPN0">Click here to watch the video</a>.</p>
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedycnbc.jpg">
+      </figure>
+</center>
+
 
 - **K24TV LIVE ❙❙ Tech and Trends with Mungala Mbuvi #K24ThisMorning: Reinventing Productivity with Artificial Intelligence**
 <p> <a href="https://www.youtube.com/watch?v=bDqB-weE1n0">Click here to watch the video</a>.</p>
