@@ -5,7 +5,7 @@ permalink: /Leadership/
 ---
 #### Global Assignments, Leadership, Volunteering and Community Building
 
--  -[**2024-2026 ❙❙ ITU Secretary-General's Youth Advisory Board Member:**](https://drive.google.com/file/d/1K2H_suKAgD2UbmOHBivF7b-gbk5nabyQ/view)
+-  -[**2024-2026 ❙❙ ITU Secretary-General's Youth Advisory Board Member:**](https://www.itu.int/en/action/youth/Pages/itu-secretary-generals-youth-advisory-board.aspx)
 
     -   Appointed as 1 of the 12 serving members of the first cohort of the Secretary-General's Youth Advisory Board
     -   Provide diverse youth perspectives, advice and concrete recommendations to the ITU Secretary-General to enhance worldwide cooperation in bridging the digital divide, “connecting the unconnected" and aligning ITU's programs with the Sustainable Development Goals.
