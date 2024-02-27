@@ -23,6 +23,17 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 #### Selected Public Speaking, Talks, Workshops, Meetups and Conferences ⚡🧠
 
+### 2024
+
+- [**eMobilis MobiGirlz Community: Empowering Young Women and Girls in Data Science for Growth and Innovation**](https://twitter.com/MobbiGirlz/status/1762094091557339574)
+
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/MobiGirlz.jfif">
+      </figure>
+</center>
+
+
 ### 2023
 
 - [**Women In Data: The Data Journey Nairobi Summit**](https://twitter.com/womenindataorg/status/1674713197482213377?t=7N0g9mX5Q73vhKFizMk2GA&s=19)
