@@ -5,6 +5,21 @@ permalink: /Leadership/
 ---
 #### Global Assignments, Leadership, Volunteering and Community Building
 
+-  -[**2024-2026 ❙❙ ITU Secretary-General's Youth Advisory Board Member:**](https://drive.google.com/file/d/1K2H_suKAgD2UbmOHBivF7b-gbk5nabyQ/view)
+
+    -   Appointed as 1 of the 12 serving members of the first cohort of the Secretary-General's Youth Advisory Board
+    -   Provide diverse youth perspectives, advice and concrete recommendations to the ITU Secretary-General to enhance worldwide cooperation in bridging the digital divide, “connecting the unconnected" and aligning ITU's programs with the Sustainable Development Goals.
+
+
+ <center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/itu.jpg">
+      </figure>
+</center>
+
+  <br/>
+
+  
 -   **UN-Habitat: Session Co-Moderator at the Second UN-Habitat Assembly 2023**
 
 <center>
