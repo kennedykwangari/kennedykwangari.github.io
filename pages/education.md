@@ -34,8 +34,9 @@ permalink: /Education/
 -   High School Studies from [Starehe Boys' Centre and School](http://www.stareheboyscentre.ac.ke/sbc/) (2012 - 2015): A- of 80 Points
 
 
--   Courses, Licences, Certifications, and Training:
+-   Courses, Licences, Certifications, and Professional Training:
 
+    -   [Data Engineering, Big Data, and Machine Learning on GCP Specialization (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/BT23DGMFGX38)
     -   [Preparing for Google Cloud Certification: Cloud Architect (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/BT23DGMFGX38)
     -   [Preparing for Google Cloud Certification: Cloud Engineer (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/GX6HEWAMDFXD)
     -   [AWS Educate Student Ambassador Certificate (AWS)](https://awseducate-public.s3.amazonaws.com/student-ambassador/Student+Certificates+5.22/Certificates+Updated-+5.22_01(149).pdf)
