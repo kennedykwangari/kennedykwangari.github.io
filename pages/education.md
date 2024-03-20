@@ -36,8 +36,8 @@ permalink: /Education/
 
 -   Courses, Licences, Certifications, and Professional Training:
 
-    -   [Data Engineering, Big Data, and Machine Learning on GCP Specialization (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/BT23DGMFGX38)
-    -   [Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/BT23DGMFGX38)
+    -   [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/account/accomplishments/specialization/HUXRG6MLBMLM)
+    -   [Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BT23DGMFGX38)
     -   [Preparing for Google Cloud Certification: Cloud Architect (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/BT23DGMFGX38)
     -   [Preparing for Google Cloud Certification: Cloud Engineer (Google Cloud)](https://www.coursera.org/account/accomplishments/professional-cert/GX6HEWAMDFXD)
  
