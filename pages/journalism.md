@@ -57,6 +57,13 @@ He shares his passion for a sustainable data-literate world through public speak
       </figure>
 </center>
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/hot96fm.jpg">
+      </figure>
+</center>
+
+
 -   [**CNBC Africa ❙❙ The PowerLunch Show: Making AI Work for Humanity: AI Governance Risks, Regulations and Trends:**](https://www.cnbcafrica.com/media/6345040131112/adopting-ai-and-managing-associated-risks/)
 
 
