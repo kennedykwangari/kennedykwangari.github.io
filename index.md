@@ -1,4 +1,4 @@
-**Kennedy Kamande Wangari** is an award-winning Data Scientist, Technology Community Builder, Technology Columnist, and an AI Researcher; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
+**Kennedy Kamande Wangari** is an award-winning Data Scientist, AI Researcher, Technology Columnist, Data and Technology Policy Analyst; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
 
 <center>
   <figure>
@@ -19,6 +19,8 @@
 </p>
 
 💥 He is the catalyst that brings your brand, stakeholders, data, technology, and decisions together to deliver better data products and create delightful customer experiences, resulting in accelerated💰 growth 📈 and impact.
+
+A talented Technology and Data Policy Analyst: steering the technological innovation through development of more inclusive and responsive technology policies geared to promote equity, inclusivity and sustainability in the digital age.
 
 He shares his passion for a sustainable data-literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals, and through various media outlets:  Television, Radio, and Newspapers.
 
