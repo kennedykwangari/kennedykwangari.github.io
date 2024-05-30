@@ -12,14 +12,16 @@ Kennedy has delivered numerous keynote sessions, workshops, presentations, and t
       </figure>
 </center>
 
-#### Areas of Specialization and Interests 📊🤖
+### Areas of Specialization and Interests 📊🤖
 
 I’m grateful for every opportunity to share my work. I can talk about:
 
-1.	Neural Machine Translation for Kenyan Low-Resourced Languages
-2.	Developer relations, building and supporting inclusive technology ecosystems
-3.	Data product management
-4.	Time Series Forecasting
+1.	Natural Language Processing for Low Resource African Languages
+2.	Automated Fact Checking and Toxic Content Detection in NLP
+4.	Spatial Data Science
+5.	Developer relations, building and supporting inclusive technology ecosystems
+6.	Data product management
+7.	Time Series Forecasting
 
 #### Selected Public Speaking, Talks, Workshops, Meetups and Conferences ⚡🧠
 
