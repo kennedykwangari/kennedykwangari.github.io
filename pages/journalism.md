@@ -49,7 +49,13 @@ He shares his passion for a sustainable data-literate world through public speak
 
 <br/>
 
-## Media Interviews on Television and Radio
+## Media Interviews on Broadcast Television, Radio and Print
+
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/nationfmkennedy].jpg">
+      </figure>
+</center>
 
 <center>
   <figure>
