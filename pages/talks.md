@@ -34,6 +34,12 @@ I’m grateful for every opportunity to share my work. I can talk about:
 </center>
 
 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyafdb.jpg">
+      </figure>
+</center>
+
 
 
 - [**eMobilis MobiGirlz Community: Empowering Young Women and Girls in Data Science for Growth and Innovation**](https://twitter.com/MobbiGirlz/status/1762094091557339574)
