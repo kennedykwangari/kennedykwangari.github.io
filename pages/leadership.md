@@ -4,7 +4,13 @@ title: Leadership
 permalink: /Leadership/
 ---
 #### Global Assignments, Leadership, Volunteering and Community Building
-  
+
+-   [**2024 ❙❙ Mentor and Session Moderator: The UNESCO Media and Information Literacy Youth Debate Series 2024**](https://drive.google.com/file/d/1JQune62BIVy3xZ6Yi_-4nLVoay2NcQDG/view?usp=sharing)
+
+    -   Provided guidance and support to fellow youths as they voice their opinions, perspectives, insights and contribute meaningfully to the discourse surrounding [**Media and Information Literacy responses to Generative Artificial Intelligence**](https://www.unesco.org/en/articles/media-and-information-literacy-youth-debate-series)
+
+<br/>
+
 -   **UN-Habitat: Session Co-Moderator at the Second UN-Habitat Assembly 2023**
 
 <center>
