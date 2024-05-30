@@ -25,6 +25,17 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 ### 2024
 
+- [**African Development Bank Group: 2024 Annual Meetings: “Charting a New Path From Aspirations to Operations: Funding Africa’s AI Ecosystem to Unlock Opportunities for Growth and Development”**](https://x.com/AfDB_Group/status/1794364385374462182)
+
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/AFBD2024.jfif">
+      </figure>
+</center>
+
+
+
+
 - [**eMobilis MobiGirlz Community: Empowering Young Women and Girls in Data Science for Growth and Innovation**](https://twitter.com/MobbiGirlz/status/1762094091557339574)
 
 <center>
