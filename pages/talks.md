@@ -27,6 +27,19 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 ### 2024
 
+- [**11th Annual Subcommittee Meeting of the UNEP CPR: “Artificial Intelligence Governance and Environmental Impact Considerations”**](https://wedocs.unep.org/bitstream/handle/20.500.11822/45779/Draft-conceptnote-special-event-AI-9July2024.pdf?sequence=3)
+
+<br>
+Imagining an Ethical Place for AI in Environmental Governance and Policy: Sharing Lessons from leveraging machine learning to combat waterways and marine plastic trash along Tana River
+
+</br>
+ 
+<center>
+  <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/UNEP AI.jpg">
+      </figure>
+</center>
+
 - [**African Development Bank Group: 2024 Annual Meetings: “Charting a New Path From Aspirations to Operations: Funding Africa’s AI Ecosystem to Unlock Opportunities for Growth and Development”**](https://x.com/AfDB_Group/status/1794364385374462182)
 
 <center>
