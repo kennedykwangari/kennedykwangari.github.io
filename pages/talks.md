@@ -31,8 +31,6 @@ I’m grateful for every opportunity to share my work. I can talk about:
 
 <br>
 Imagining an Ethical Place for AI in Environmental Governance and Policy: Sharing Lessons from leveraging machine learning to combat waterways and marine plastic trash along Tana River
-
-</br>
  
 <center>
   <figure>
