@@ -2,7 +2,7 @@
 
 <center>
   <figure>
-    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedykwangari.jpg">
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyUNEP.jpg">
       </figure>
 </center>
 
