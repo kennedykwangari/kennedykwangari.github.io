@@ -45,7 +45,3 @@ He shares his passion for a sustainable data-literate world through public speak
  Kennedy receiving his award from the President of the Republic of Kenya: Uhuru Muigai Kenyatta CGH on 18/05/2022 at State House, Nairobi, Kenya
 </p>
 
-
- [**Kennedy Kamande Wangari**](https://www.linkedin.com/in/kennedykamandewangari/)
- 
-**Data Scientist 📈❙❙ MSc AI Student @The University of Edinburgh 📚🤖 ❙❙ Data and Technology Policy Analyst⚖️📊 ❙❙ Technology Columnist @The Star Newspaper Newspaper 📰✍️**
