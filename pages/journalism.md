@@ -53,6 +53,14 @@ He shares his passion for a sustainable data-literate world through public speak
 
 <center>
   <figure>
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kamemetv.jpg">
+      </figure>
+</center>
+
+
+
+<center>
+  <figure>
     <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/nationfmkennedy].jpg">
       </figure>
 </center>
