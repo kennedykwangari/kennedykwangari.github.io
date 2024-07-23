@@ -57,7 +57,7 @@ He shares his passion for a sustainable data-literate world through public speak
       </figure>
 </center>
 
-
+-   [**Kameme TV ❙❙ The Rikiratha Show: Itemi Ria Mbeu Jithi Kuhimbiria Uhuthiri wa ICT Utongoriani:**](https://www.youtube.com/watch?v=gGsZe3eM3wE)
 
 <center>
   <figure>
