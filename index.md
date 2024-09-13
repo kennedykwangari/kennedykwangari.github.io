@@ -10,7 +10,7 @@
 
 <center>
   <figure>
-    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangariUNEP.jpg">
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedykwangariUNEP.jpg">
       </figure>
 </center>
 
