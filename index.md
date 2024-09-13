@@ -10,13 +10,9 @@
 
 <center>
   <figure>
-    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kennedyunhabitat.jpg">
+    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/kwangariUNEP.jpg">
       </figure>
 </center>
-
-<p align="center">
- (The Permanent Mission of Kenya to the UN-Habitat Team: (Onset: Cabinet Secretary for Lands, Public Works, Housing and Urban Development Zachariah Njeru and Ambassador Jean Kimani))
-</p>
 
 💥 He is the catalyst that brings your brand, stakeholders, data, technology, and decisions together to deliver better data products and create delightful customer experiences, resulting in accelerated💰 growth 📈 and impact.
 
