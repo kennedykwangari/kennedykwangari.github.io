@@ -8,12 +8,6 @@ permalink: /Education/
 
 - As a postgraduate student, pursuing an MSc. Artificial Intelligence at the University of Edinburgh, his work aims to pave the way towards a better understanding of the societal and environmental impacts of AI models, datasets, and systems. 
 
-<center>
-  <figure>
-    <img src="https://raw.githubusercontent.com/kennedykwangari/kennedykwangari.github.io/master/images/school.jpg">
-      </figure>
-</center>
-
 ▶️ His research topics are in:
 -  Calculating the Carbon Impact of AI Algorithms
 -  Responsible Natural Language Processing
